@@ -1,12 +1,12 @@
 main:
-  - name: "Services"
-    url: "/services/"
+  - name: "About DANSIS"
+    url: "/"
     weight: 2
-  - name: "Team"
-    url: "/team/"
+  - name: "Seminars"
+    url: "/seminar/"
     weight: 3
-  - name: "About"
-    url: "/about/"
+  - name: "Membership"
+    url: "/membership/"
     weight: 4
   - name: "Contact"
     url: "/contact/"

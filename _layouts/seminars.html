@@ -1,0 +1,52 @@
+---
+layout: default
+bodyClass: "page-seminars"
+---
+
+<div class="container pt-6 pb-6">
+    <div class="row">
+        {% assign promoted_seminars = site.seminar | where: "promoted", true | sort: "date" %}
+        {% for seminar in promoted_seminars %}
+        <div class="col-12 col-md-6 mb-2">
+            <div class="seminar seminar-summary seminar-summary-large">
+                {% if seminar.image %}
+                <div class="seminar-image">
+                    <img width="200" height="200" alt="{{ seminar.title }}" class="img-fluid mb-2" src="{{ seminar.image | relative_url }}" />
+                </div>
+                {% endif %}
+                <div class="seminar-meta">
+                    <h2 class="seminar-name"><a href="{{ seminar.url | relative_url }}">{{ seminar.title }}</a></h2>
+                    <p class="seminar-description">{{ seminar.date | date: '%d %B %Y' }}</p>
+                    {% if seminar.venue %}
+                    <a target="_blank" href="{{ seminar.googleurl }}" rel="noreferrer">{{ seminar.venue }}</a>
+                    {% endif %}
+                </div>
+                <div class="seminar-content">{{ seminar.content | truncate: 250 }}</div>
+                {% if seminar.registrationurl %}
+                <h3 class="content"><a class="content" target="_blank" href="{ seminar.registrationurl }}" rel="noreferrer">Register here!</a></h3>
+                {% else %}
+                <h3 class="content">Not open for registration yet</h3>
+                {% endif %}
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    <div class="row pt-6 pb-6">
+        {% assign seminars = site.seminar | sort: "date" %}
+        {% for seminar in seminars reversed%}
+        <div class="col-12 col-md-4 mb-3">
+            <div class="seminar seminar-summary">
+                {% if seminar.image %}
+                <div class="seminar-image">
+                    <img width="60" height="60" alt="{{ seminar.title }}" class="img-fluid mb-2" src="{{ seminar.image | relative_url }}" />
+                </div>
+                {% endif %}
+                <div class="seminar-meta">
+                    <h2 class="seminar-name"><a href="{{ seminar.url | relative_url }}">{{ seminar.title }}</a></h2>
+                    <p class="seminar-description">{{ seminar.date | date: '%B %Y' }}</p>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>

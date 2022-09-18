@@ -2,12 +2,12 @@
 ---
 
 // Colors
-$primary: #e5261f;
-$primary-dark: #a01b16;
-$secondary: #f88379;
+$primary: #0eafeeff;
+$primary-dark: #0eafeeff;
+$secondary: rgb(11, 120, 162);
 $black: #2f2f41;
 $white: #ffffff;
-$white-offset: #fff6f8;
+$white-offset: rgba(14, 174, 238, 0.125);
 $steel: #5c5a5a;
 
 // Links
@@ -58,11 +58,11 @@ $sub-footer-text-color: $white;
 
 // Pages
 @import "pages/page-home";
-@import "pages/page-teams";
+@import "pages/page-seminars";
 @import "pages/page-service";
 
 body {
-  font-size: 16px;
+  font-size: 22px;
   line-height: 1.2;
   font-family: $font-family-base;
   @include media-breakpoint-up(md) {
