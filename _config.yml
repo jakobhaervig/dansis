@@ -13,10 +13,10 @@ logo:
   desktop_width: "300px"
 
 home: 
-  limit_services: 6
+  limit_info: 6
 
 collections:
-  services:
+  info:
     output: true
     sort_by: weight
   seminar:
@@ -25,9 +25,9 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "services"
+      type: "info"
     values:
-      layout: "service"
+      layout: "infopage"
   - scope:
       path: ""
       type: "seminar"

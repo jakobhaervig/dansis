@@ -1,16 +1,16 @@
 main:
   - name: "About DANSIS"
     url: "/"
-    weight: 2
+    weight: 1
   - name: "Seminars"
     url: "/seminar/"
-    weight: 3
+    weight: 2
   - name: "Membership"
-    url: "services/membership/"
-    weight: 4
+    url: "info/membership/"
+    weight: 3
   - name: "Contact"
     url: "/contact/"
-    weight: 5
+    weight: 4
 
 footer:
   - name: "Home"
