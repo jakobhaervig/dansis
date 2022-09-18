@@ -1,8 +1,7 @@
 ---
 title: Memberships
-layout: page
-description: Memberships
-bodyClass: membership
+date: 2022-09-18
+weight: 1
 ---
 The main benefit of membership is that member meetings are free of charge. Lunch etc at meetings is often sponsored by different companies and are therefore untaxed. Member meetings are not just an opportunity to keep updated on flow-mechanical issues, but are also a good place to network.
 

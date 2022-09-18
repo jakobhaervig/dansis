@@ -6,7 +6,7 @@ main:
     url: "/seminar/"
     weight: 3
   - name: "Membership"
-    url: "/membership/"
+    url: "services/membership/"
     weight: 4
   - name: "Contact"
     url: "/contact/"

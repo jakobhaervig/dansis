@@ -3,7 +3,7 @@ title: DANSIS
 layout: home
 description: The Danish Society for Industrial Fluid Dynamics
 intro_image: "images/frontimage.jpg"
-intro_image_absolute: true
+intro_image_absolute: false
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
