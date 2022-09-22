@@ -18,6 +18,39 @@ bodyClass: "page-home"
   </div>
 </div>
 
+<div class="news">
+<div class="container pt-6 pb-6">
+  <h1 class="title">Latest announcements</h1>
+  <div class="row">
+      {% assign promoted_seminars = site.seminar | where: "promoted", true | sort: "date" %}
+      {% for seminar in promoted_seminars %}
+      <div class="col-12 col-md-6 mb-2">
+          <div class="seminar seminar-summary seminar-summary-large">
+              {% if seminar.image %}
+              <div class="seminar-image">
+                  <img width="200" height="200" alt="{{ seminar.title }}" class="img-fluid mb-2" src="{{ seminar.image | relative_url }}" />
+              </div>
+              {% endif %}
+              <div class="seminar-meta">
+                  <h2 class="seminar-name"><a href="{{ seminar.url | relative_url }}">{{ seminar.title }}</a></h2>
+                  <p class="seminar-description">{{ seminar.date | date: '%d %B %Y' }}</p>
+                  {% if seminar.venue %}
+                  <a target="_blank" href="{{ seminar.googleurl }}" rel="noreferrer">{{ seminar.venue }}</a>
+                  {% endif %}
+              </div>
+              <div class="seminar-content">{{ seminar.content | truncate: 250 }}</div>
+              {% if seminar.registrationurl %}
+              <h3 class="content"><a class="content" target="_blank" href="{ seminar.registrationurl }}" rel="noreferrer">Register here!</a></h3>
+              {% else %}
+              <h3 class="content">Not open for registration yet</h3>
+              {% endif %}
+          </div>
+      </div>
+      {% endfor %}
+  </div>
+</div>
+</div>
+
 <div class="strip">
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
@@ -35,11 +68,6 @@ bodyClass: "page-home"
       </div>
       {% endfor %}
     </div>
-    <!-- <div class="row justify-content-center">
-      <div class="col-auto">
-        <a class="button button-primary" href="{{ "info" | relative_url }}">View All info</a>
-      </div>
-    </div> -->
   </div>
 </div>
 
