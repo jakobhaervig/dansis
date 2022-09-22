@@ -23,7 +23,7 @@ bodyClass: "page-seminars"
                 </div>
                 <div class="seminar-content">{{ seminar.content | truncate: 250 }}</div>
                 {% if seminar.registrationurl %}
-                <h3 class="content"><a class="content" target="_blank" href="{ seminar.registrationurl }}" rel="noreferrer">Register here!</a></h3>
+                <h3 class="content"><a class="content" target="_blank" href="{{ seminar.registrationurl }}" rel="noreferrer">Register here!</a></h3>
                 {% else %}
                 <h3 class="content">Not open for registration yet</h3>
                 {% endif %}

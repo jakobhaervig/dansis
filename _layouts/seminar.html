@@ -12,7 +12,7 @@ bodyClass: "page-seminar"
         <h3 class="content">Date:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{page.date | date: '%d %B %Y'}}</h3>
         <div class="content">{{content}}</div>
         {% if page.registrationurl %}
-        <h3 class="content"><a class="content" target="_blank" href="{ page.registrationurl }}" rel="noreferrer">Register here!</a></h3>
+        <h3 class="content"><a class="content" target="_blank" href="{{ page.registrationurl }}" rel="noreferrer">Register here!</a></h3>
         {% else %}
         <h3 class="content">Not open for registration yet</h3>
         {% endif %}
