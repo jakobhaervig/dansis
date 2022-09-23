@@ -6,7 +6,7 @@ venue: "Chemical Engineering department
 DTU building 228A, second floor
 2800 Kgs. Lyngby"
 googleurl: "https://goo.gl/maps/KwmSaUCBeNCrfQ3G8"
-registrationurl: "https://google.com"
+#registrationurl: "https://google.com"
 weight: 1
 ---
 
