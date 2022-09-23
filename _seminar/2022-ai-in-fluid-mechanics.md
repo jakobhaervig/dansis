@@ -4,7 +4,7 @@ date: 2022-10-05
 image: "images/seminar/2022-ai-fluid-mechanics.jpg"
 venue: "Vestas Wind Systems A/S, Hedeager 42, 8220 Aarhus N"
 googleurl: "https://goo.gl/maps/6qtAsSJr1t3H2mPN9"
-registrationurl: "https://billetto.dk/e/ai-in-fluid-mechanics-billetter-703037"
+identifier: "ai-in-fluid-mechanics-billetter-703037"
 weight: 1
 promoted: true
 ---
