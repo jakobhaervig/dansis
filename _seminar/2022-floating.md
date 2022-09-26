@@ -4,7 +4,7 @@ date: 2022-03-30
 image: "images/seminar/2022-floating.jpg"
 venue: "DTU Building 101A, meeting room 1, Anker Engelunds Vej 1"
 googleurl: "https://goo.gl/maps/Tr5gdSMMXFPrMf5V7"
-#registrationurl: "https://google.com"
+#identifier: "ai-in-fluid-mechanics-billetter-703037"
 weight: 1
 ---
 
