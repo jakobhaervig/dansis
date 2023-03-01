@@ -6,6 +6,7 @@ venue: "DTU Building 101A, meeting room 1, Anker Engelunds Vej 1"
 googleurl: "https://goo.gl/maps/Tr5gdSMMXFPrMf5V7"
 #identifier: "ai-in-fluid-mechanics-billetter-703037"
 weight: 1
+promoted: false
 ---
 
 Acceleration of the green transition is pushing renewable energy technologies to the limit. This seminar combines two areas of active research and development within green offshore energy; floating offshore wind turbine foundations and wave energy. Since both technologies are floating they share fluid dynamic properties and challenges.

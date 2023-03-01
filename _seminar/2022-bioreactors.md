@@ -2,12 +2,11 @@
 title: "Fluid Mechanics in Bioreactions and fermentation"
 date: 2022-05-25
 image: "images/seminar/2022-bioreactors.jpg"
-venue: "Chemical Engineering department
-DTU building 228A, second floor
-2800 Kgs. Lyngby"
+venue: "Chemical Engineering department, DTU building 228A, second floor, 2800 Kgs. Lyngby"
 googleurl: "https://goo.gl/maps/KwmSaUCBeNCrfQ3G8"
 #identifier: "ai-in-fluid-mechanics-billetter-703037"
 weight: 1
+promoted: false
 ---
 
 Wednesday 25th of May 2022, DTU and DANSIS will host a seminar on Fluid Mechanics in Bioreactors and Fermentation. The event is co-arranged by DTU Chemical Engineering’s PROSYS research center.

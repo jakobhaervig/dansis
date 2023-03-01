@@ -4,9 +4,9 @@ date: 2022-10-05
 image: "images/seminar/2022-ai-fluid-mechanics.jpg"
 venue: "Vestas Wind Systems A/S, Hedeager 42, 8220 Aarhus N"
 googleurl: "https://goo.gl/maps/6qtAsSJr1t3H2mPN9"
-identifier: "ai-in-fluid-mechanics-billetter-703037"
+#identifier: "ai-in-fluid-mechanics-billetter-703037"
 weight: 1
-promoted: true
+promoted: false
 ---
 
 Artificial Intelligence is gaining popularity in many fluid mechanics related applications. For many fluid mechanical applications it's common to have huge amounts of data from both experiments or simulations. Using machine learning techniques we can process and extract useful patterns in complex data in order to simplify problems are create reduced order models. This seminar focuses on both recent advances and new applications.
