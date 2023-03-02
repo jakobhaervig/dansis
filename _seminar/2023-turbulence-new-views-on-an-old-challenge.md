@@ -4,7 +4,7 @@ date: 2023-05-24
 image: "images/seminar/2023-turbulence-new-views.jpg"
 venue: "DTU Lyngby Campus, building 421, auditorium 72, 2800 Kgs. Lyngby"
 googleurl: "https://goo.gl/maps/FBfsnFPY1HA4eVo3A"
-identifier: "turbulence-new-views-on-an-old-challenge-tickets-804733"
+identifier: "turbulence-new-views-on-an-old-challenge-billetter-804980"
 weight: 1
 promoted: true
 ---
