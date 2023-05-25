@@ -5,8 +5,6 @@ image: "images/seminar/2023-turbulence-new-views.jpg"
 venue: "DTU Lyngby Campus, building 421, auditorium 72, 2800 Kgs. Lyngby"
 googleurl: "https://goo.gl/maps/FBfsnFPY1HA4eVo3A"
 identifier: "turbulence-new-views-on-an-old-challenge-billetter-804980"
-weight: 1
-promoted: true
 ---
 
 Artificial Intelligence is gaining popularity in many fluid mechanics related applications. For many fluid mechanical applications it's common to have huge amounts of data from both experiments or simulations. Using machine learning techniques we can process and extract useful patterns in complex data in order to simplify problems are create reduced order models. This seminar focuses on both recent advances and new applications.
