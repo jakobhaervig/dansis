@@ -14,5 +14,37 @@
       "width": 200,
       "height": 200
     }
+  },
+  {
+    "title": "DANSIS sponsor",
+    "image": {
+      "url": "images/features/multi-wing.svg",
+      "width": 200,
+      "height": 200
+    }
+  },
+  {
+    "title": "DANSIS sponsor",
+    "image": {
+      "url": "images/features/dantec-dynamics.svg",
+      "width": 200,
+      "height": 200
+    }
+  },
+  {
+    "title": "DANSIS sponsor",
+    "image": {
+      "url": "images/features/force.svg",
+      "width": 200,
+      "height": 200
+    }
+  },
+  {
+    "title": "DANSIS sponsor",
+    "image": {
+      "url": "images/features/aerotak.svg",
+      "width": 200,
+      "height": 200
+    }
   }
 ]
