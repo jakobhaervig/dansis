@@ -40,6 +40,8 @@ bodyClass: "page-seminars"
     <div class="row pt-6 pb-6">
         {% assign seminars = site.seminar | sort: "date" %}
         {% for seminar in seminars reversed%}
+        {% assign seminar_date = seminar.date | date: '%Y%m%d' | times: 1 %}
+        {% if today_date > seminar_date %}
         <div class="col-12 col-md-4 mb-3">
             <div class="seminar seminar-summary">
                 {% if seminar.image %}
@@ -53,6 +55,7 @@ bodyClass: "page-seminars"
                 </div>
             </div>
         </div>
+        {% endif %}
         {% endfor %}
     </div>
 </div>
