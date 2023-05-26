@@ -22,4 +22,32 @@ DANSIS Seminar, where the prize will be presented.
 - The thesis must have significant fluid mechanics content
 
 ## Enter the competition
-Send your thesis my e-mail to dansis@dansis.dk as a PDF file or a link
+Send your thesis by e-mail to dansis@dansis.dk as a PDF file or a link
+
+## Previous winners
+
+**2022:**  Rasmus Byrdal Kjær "Experimental and CFD Analysis of Roll Damping of Installation Vessels"
+
+**2021:** Christian Jæger "Full Cycle Simulation of Two-Stroke Marine Diesel Engine Using STAR-ICE"
+
+**2020:** Emil Strøm og Anders Melander "Massively Parallel Nodal Discontinous Galerkin Finite Element Method Simulator for 3D Room Acoustics"
+
+**2019:** Frederik L. Zafiryadis "Numerical modeling of droplet trajectories in pilot plant spray dryer fi tted with rotary atomizer"
+
+**2018:** Allan Bjerg & Kristian Kristoffersen "Numerical Investigation of Flow Structures and Their Impact on Heat Transfer Performance in a Staggered Arrangement of Rectangular Winglet Pair Vortex Generators in a Fully Developed Channel Flow"
+
+**2017:** Marcin Serdeczny "Infusion flow in composites processes"
+
+**2016:** Henrik Mikkelsen & Mads Lund Steffensen "Full scale validation of CFD model of self-propelled ship"
+
+**2015:** Robert Laugesen & Anders Mandrup Hansen "Experimental Study of the Dynamic Response of the DTU 10 MW Wind turbine on a Tension Leg Platform"
+
+**2014:** Stig Staghøj Knudsen "Sail Shape Optimization with CFD"
+
+**2013:** Max la Cour Christensen & Klaus Langgren Eskildsen "Nonlinear Multigrid for Efficient Reservoir Simulation"
+
+**2012:** Svend Skovgaard Petersen "CFD Modelling of a Biomass Incinerator for Prediction of Risk Areas for Corrosion Damages"
+
+**2011:** Fredrik Herland Andersen "Numerical Simulation of the Flow in Fuel Nozzles for Two-Stroke diesel Engines"
+
+**2010:** Kristian Ingvorsen "Experimental and Numerical Investigation of Mixing of two gas Streams"
