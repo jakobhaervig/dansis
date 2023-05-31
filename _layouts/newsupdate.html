@@ -13,7 +13,7 @@ layout: default
         <h3 class="content">Date:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{ page.date | date: '%d' | plus:'0'}} {{ page.date | date: '%B %Y' }}</h3>
         {% if page.image %}
         <div class="newsupdate-image">
-            <img width="550" alt="{{ page.title }}" class="img-fluid mb-2" src="{{ page.image | relative_url }}" />
+            <img width="600" alt="{{ page.title }}" class="img-fluid mb-2" src="{{ page.image | relative_url }}" />
         </div>
         {% endif %}
         <div class="content">{{content}}</div>
