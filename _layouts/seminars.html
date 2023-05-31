@@ -21,7 +21,7 @@ bodyClass: "page-seminars"
                 <div class="seminar-meta">
                     <!-- <h1 class="seminar-name"><a>Upcoming seminar</a></h1> -->
                     <h2 class="seminar-name"><a href="{{ seminar.url | relative_url }}">{{ seminar.title }}</a></h2>
-                    <p class="seminar-description">{{ seminar.date | date: '%d %B %Y' }}</p>
+                    <p class="seminar-description">{{ seminar.date | date: '%d' | plus:'0'}} {{ seminar.date | date: '%B %Y' }}</p>
                     {% if seminar.venue %}
                     <a target="_blank" href="{{ seminar.googleurl }}" rel="noreferrer">{{ seminar.venue }}</a>
                     {% endif %}
@@ -51,7 +51,7 @@ bodyClass: "page-seminars"
                 {% endif %}
                 <div class="seminar-meta">
                     <h2 class="seminar-name"><a href="{{ seminar.url | relative_url }}">{{ seminar.title }}</a></h2>
-                    <p class="seminar-description">{{ seminar.date | date: '%B %Y' }}</p>
+                    <p class="seminar-description">{{ seminar.date | date: '%d' | plus:'0'}} {{ seminar.date | date: '%B %Y' }}</p>
                 </div>
             </div>
         </div>
