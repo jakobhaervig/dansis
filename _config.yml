@@ -21,6 +21,8 @@ collections:
     sort_by: weight
   seminar:
     output: true
+  news:
+    output: true
 
 defaults:
   - scope:
@@ -33,6 +35,11 @@ defaults:
       type: "seminar"
     values:
       layout: "seminar"
+  - scope:
+      path: ""
+      type: "news"
+    values:
+      layout: "newsupdate"
 
 sass:
   style: compressed # possible values: nested expanded compact compressed

@@ -5,6 +5,7 @@ bodyClass: "page-home"
 
 {% assign today_date = 'now' | date: '%Y%m%d' | times: 1 %}
 {% assign seminars = site.seminar %}
+{% assign news = site.news %}
 
 <div class="intro">
   <div class="container">
@@ -21,7 +22,32 @@ bodyClass: "page-home"
   </div>
 </div>
 
-<div class="news">
+<div class="container pt-6 pb-6">
+  <h1 class="title">Latest News</h1>
+  <div class="row">
+    {% for newsupdate in news %}
+    {% assign newsupdate_date = newsupdate.date | date: '%Y%m%d' | times: 1 %}
+    <div class="col-12 col-md-6 mb-2">
+        <div class="newsupdate newsupdate-summary newsupdate-summary-large">
+            {% if newsupdate.image %}
+            <div class="newsupdate-image">
+                <img width="550" alt="{{ newsupdate.title }}" class="img-fluid mb-2" src="{{ newsupdate.image | relative_url }}" />
+            </div>
+            {% endif %}
+            <div class="newsupdate-meta">
+                <h2 class="newsupdate-name"><a href="{{ newsupdate.url | relative_url }}">{{ newsupdate.title }}</a></h2>
+                <p class="newsupdate-description">{{ newsupdate.date | date: '%d %B %Y' }}</p>
+                {% if newsupdate.venue %}
+                <a target="_blank" href="{{ newsupdate.googleurl }}" rel="noreferrer">{{ newsupdate.venue }}</a>
+                {% endif %}
+            </div>
+            <div class="newsupdate-content">{{ newsupdate.content | truncate: 250 }}</div>
+        </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+
 <div class="container pt-6 pb-6">
   <h1 class="title">Highlighted seminars</h1>
   <div class="row">
@@ -53,7 +79,6 @@ bodyClass: "page-home"
     {% endif %}
     {% endfor %}
   </div>
-</div>
 </div>
 
 <div class="strip">

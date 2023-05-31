@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+{% assign today_date = 'now' | date: '%Y%m%d' | minus: 0%}
+{% assign seminar_date = page.date | date: '%Y%m%d' | times: 1 %}
+
+<div class="container pb-6 pt-6 pt-md-10 pb-md-10">
+  <div class="row justify-content-start">
+    <div class="col-12 col-md-8">
+      <div class="seminar seminar-single">
+        <h1 class="title">{{page.title}}</h1>
+        <h3 class="content">Date:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{page.date | date: '%d %B %Y'}}</h3>
+        {% if page.image %}
+        <div class="newsupdate-image">
+            <img width="550" alt="{{ page.title }}" class="img-fluid mb-2" src="{{ page.image | relative_url }}" />
+        </div>
+        {% endif %}
+        <div class="content">{{content}}</div>
+      </div>
+    </div>
+  </div>
+</div>
