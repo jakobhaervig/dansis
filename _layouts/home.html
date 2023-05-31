@@ -36,7 +36,6 @@ bodyClass: "page-home"
             </div>
             {% endif %}
             <div class="seminar-meta">
-                <!-- <h1 class="seminar-name"><a>Upcoming seminar</a></h1> -->
                 <h2 class="seminar-name"><a href="{{ seminar.url | relative_url }}">{{ seminar.title }}</a></h2>
                 <p class="seminar-description">{{ seminar.date | date: '%d %B %Y' }}</p>
                 {% if seminar.venue %}
