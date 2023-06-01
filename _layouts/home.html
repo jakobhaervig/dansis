@@ -23,7 +23,7 @@ bodyClass: "page-home"
 </div>
 
 <div class="container pt-6 pb-6">
-  <h2 class="title">Latest News</h1>
+  <h1 class="title">Latest News</h1>
   <div class="row">
     {% for newsupdate in news reversed %}
     {% assign newsupdate_date = newsupdate.date | date: '%Y%m%d' | times: 1 %}
@@ -31,7 +31,7 @@ bodyClass: "page-home"
         <div class="newsupdate newsupdate-summary newsupdate-summary-large">
             {% if newsupdate.image %}
             <div class="newsupdate-image">
-                <img width="280" height="187" alt="{{ newsupdate.title }}" class="img-fluid mb-2" src="{{ newsupdate.image | relative_url }}" />
+                <img width="550" height="367" alt="{{ newsupdate.title }}" class="img-fluid mb-2" src="{{ newsupdate.image | relative_url }}" />
             </div>
             {% endif %}
             <div class="newsupdate-meta">
@@ -46,10 +46,8 @@ bodyClass: "page-home"
     </div>
     {% endfor %}
   </div>
-</div>
 
-<div class="container pt-6 pb-6">
-  <h2 class="title">Highlighted seminars</h1>
+  <h1 class="title">Upcoming seminars</h1>
   <div class="row">
     {% for seminar in seminars %}
     {% assign seminar_date = seminar.date | date: '%Y%m%d' | times: 1 %}
