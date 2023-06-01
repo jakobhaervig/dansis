@@ -1,7 +1,12 @@
 [
   {
     "name": "LinkedIn",
-    "link": "",
+    "link": "https://www.linkedin.com/groups/68433/",
     "image": "images/social/linkedin.svg"
+  },
+  {
+    "name": "GitHub",
+    "link": "https://github.com/jakobhaervig/dansis",
+    "image": "images/social/github.svg"
   }
 ]
