@@ -39,9 +39,9 @@ DANSIS celebrates 25 years of supporting the Danish community on industrial flui
 | 12:00 | Lunch | |
 | 13:00 | Closing of Symposium | |
 
-## Workshop tracks
+# Workshop tracks
 
-### 1. Simulation strategy
+## 1. Simulation strategy
 In this workshop we will work with some typical challenges related to the expansion and integration of digital engineering (e.g., CFD simulations) in the organizations, including:
 - The simulation team is not involved in projects or gets involved too late (no budgets, limited design space).
 - Approvals for investments and recruitments are hard to get.
@@ -53,7 +53,7 @@ To support the discussion, we will use the simulation maturity assessment which 
 
 Login here: Web: https://smi.edrmedeso.com/, Code: n4c7ckb1
 
-## Programme
+### Programme
 
 | Time  |             |             |
 | ----- | ----------- | ----------- |
@@ -61,10 +61,10 @@ Login here: Web: https://smi.edrmedeso.com/, Code: n4c7ckb1
 | 10:15 | Presentation of Simulation Maturity Index results | Marcus Oledal, EDRMedeso, Sweden |
 | 10:35 | Group discussions and follow-up | Marcus Oledal, EDRMedeso, Sweden |
 
-### 2. High performance computing
+## 2. High performance computing
 This workshop will be centered on the users’ approach and experience with HPC (high performance computing) infrastructure. Some have “on-premises” hardware, others have it all “in the cloud”, or a combination of both. Different approaches are witnessed as well on how to administrate the setup, installations, maintenance, utilization, troubleshooting and optimization. We have invited a few HPC users and administrators from the industry to shortly present how their HPC environment is built and handled. Pros and Cons will be addressed. We will facilitate a debate and dialogue with the audience. We hope to get honest user perspectives shared. You will hear enthusiastic but also frustrating experiences from real life - meaning after the salespeople and the managers have left the users to get the best out of the solution delivered. Representatives from different solution providers will also be present to clarify some of the questions and doubts that may arise. We hope to see many of you joining. You are welcome to contact Damien Grévain, if you want to share your HPC-story.
 
-## Programme
+### Programme
 
 | Time  |             |             |
 | ----- | ----------- | ----------- |
@@ -73,10 +73,10 @@ This workshop will be centered on the users’ approach and experience with HPC 
 | 11:00 | Moving from 2 OnPrem HPC in DK and USA to Cloud HPC. Queue system | Emil Z. Rath, Babcock & Wilcox Renewable, Denmark |
 | 11:20 | Discussions and debate with the audience and presenters. Open themes. Suggestions: Cyber safety, organization, ownership, cooperation with IT specialists (internal / external (consultants)), sharing resources with colleagues across organization and globe. Please chip in with any HPC related themes you would like to debate.| Facilitator: Damien Grévain |
 
-### 3. OpenFOAM
+## 3. OpenFOAM
 The open source CFD toolbox, OpenFOAM, is used by several large Danish companies as an integrated part of their design- and innovation process. Several Danish universities support the global OpenFOAM community with powerful extension to OpenFOAM. One subfield where Denmark has a particularly strong position is within multiphase flows that are important within the water and energy sectors as well as in chemical and food process engineering. The workshop will have presentations by international developers and with Danish users/developers. Discussions will include exchange of user experience and of future collaboration in Denmark.
 
-## Programme
+### Programme
 
 | Time  |             |             |
 | ----- | ----------- | ----------- |
