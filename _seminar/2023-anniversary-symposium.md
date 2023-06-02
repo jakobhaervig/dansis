@@ -40,3 +40,52 @@ DANSIS celebrates 25 years of supporting the Danish community on industrial flui
 | 13:00 | Closing of Symposium | |
 
 ## Workshop tracks
+
+### 1. Simulation strategy
+In this workshop we will work with some typical challenges related to the expansion and integration of digital engineering (e.g., CFD simulations) in the organizations, including:
+- The simulation team is not involved in projects or gets involved too late (no budgets, limited design space).
+- Approvals for investments and recruitments are hard to get.
+- Spreading awareness about the simulation team internally in the organization proves to be difficult.
+- How can I increase the impact of simulation?
+
+The purpose is to work through the challenges at hand for the delegates, and along the discussion provide tools and methods that would help you approach these challenges better prepared.
+To support the discussion, we will use the simulation maturity assessment which must be completed before the workshop.
+
+Login here: Web: https://smi.edrmedeso.com/, Code: n4c7ckb1
+
+## Programme
+
+| Time  |             |             |
+| ----- | ----------- | ----------- |
+| 10:00 | Introduction round | |
+| 10:15 | Presentation of Simulation Maturity Index results | Marcus Oledal, EDRMedeso, Sweden |
+| 10:35 | Group discussions and follow-up | Marcus Oledal, EDRMedeso, Sweden |
+
+### 2. High performance computing
+This workshop will be centered on the users’ approach and experience with HPC (high performance computing) infrastructure. Some have “on-premises” hardware, others have it all “in the cloud”, or a combination of both. Different approaches are witnessed as well on how to administrate the setup, installations, maintenance, utilization, troubleshooting and optimization. We have invited a few HPC users and administrators from the industry to shortly present how their HPC environment is built and handled. Pros and Cons will be addressed. We will facilitate a debate and dialogue with the audience. We hope to get honest user perspectives shared. You will hear enthusiastic but also frustrating experiences from real life - meaning after the salespeople and the managers have left the users to get the best out of the solution delivered. Representatives from different solution providers will also be present to clarify some of the questions and doubts that may arise. We hope to see many of you joining. You are welcome to contact Damien Grévain, if you want to share your HPC-story.
+
+## Programme
+
+| Time  |             |             |
+| ----- | ----------- | ----------- |
+| 10:00 | Introduction to HPC landscape. Experience of HPC through the years. Example of technico-economic comparison of Cloud vs. On-prem solution | Niels Linnemann, Nilatek, Denmark |
+| 10:40 | From Workstations, to Cloud first strategy | Damien Grévain, FLS, Denmark |
+| 11:00 | Moving from 2 OnPrem HPC in DK and USA to Cloud HPC. Queue system | Emil Z. Rath, Babcock & Wilcox Renewable, Denmark |
+| 11:20 | Discussions and debate with the audience and presenters. Open themes. Suggestions: Cyber safety, organization, ownership, cooperation with IT specialists (internal / external (consultants)), sharing resources with colleagues across organization and globe. Please chip in with any HPC related themes you would like to debate.| Facilitator: Damien Grévain |
+
+### 3. OpenFOAM
+The open source CFD toolbox, OpenFOAM, is used by several large Danish companies as an integrated part of their design- and innovation process. Several Danish universities support the global OpenFOAM community with powerful extension to OpenFOAM. One subfield where Denmark has a particularly strong position is within multiphase flows that are important within the water and energy sectors as well as in chemical and food process engineering. The workshop will have presentations by international developers and with Danish users/developers. Discussions will include exchange of user experience and of future collaboration in Denmark.
+
+## Programme
+
+| Time  |             |             |
+| ----- | ----------- | ----------- |
+| 10:00 | Simulation of ocean waves with focus on the velocity field near the free surface | Jesper Roland Kjærgaard Qwist, DTU Construct, Denmark |
+| 10:25 | FloatStepper - robust CFD for floating structures | Johan Rønby, Stromning & Roskilde University, Denmark |
+| 10:50 | HELYX Unified Solver Framework – Why, What, Where and When? | Eugene De Villiers, Engys, UK |
+| 11:15 | Discussion | |
+
+Deadline for registration is 30 June .
+
+Do you wish to have a stand at the event? 
+Please contact Damien Grévain for details and coordination of stand space reservation.
