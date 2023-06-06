@@ -1,6 +1,6 @@
 # About this repository
 
-This repo hosts the website of DANSIS live at [http://jakobhaervig.github.io/dansis](http://jakobhaervig.github.io/dansis). Its built around the [Jekyll framework](https://jekyllrb.com/) to be fast, responsive and flexible.
+This repo hosts the website of DANSIS live at [http://jakobhaervig.github.io/dansis](http://jakobhaervig.github.io/dansis). It's built around the [Jekyll framework](https://jekyllrb.com/) to be fast, responsive and flexible.
 
 # Notes to self
 
