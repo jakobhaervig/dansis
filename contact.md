@@ -4,4 +4,4 @@ layout: contact
 description: Contact
 ---
 
-More to be added..
+Contact DANSIS chairman, Associate Professor Knud Erik Meyer
