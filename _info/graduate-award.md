@@ -2,6 +2,7 @@
 title: "Graduate award"
 date: 2022-09-18
 weight: 1
+teaser: Win 15,000 dKr for your thesis! If you have produced a thesis that is related to a topic within the fields of fluid mechanics, then you now have the opportunity of making money from it.
 ---
 
 # Win 15,000 dKr for your thesis!

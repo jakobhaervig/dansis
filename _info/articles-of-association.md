@@ -2,6 +2,7 @@
 title: "Vedtægter (In Danish)"
 date: 2000-12-28
 weight: 4
+teaser: All the formalities can be found here.
 ---
 
 ### §1. Navn og Hjemsted

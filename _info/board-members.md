@@ -2,6 +2,7 @@
 title: "Board members"
 date: 2022-09-18
 weight: 1
+teaser: List of current DANSIS board members, which represent both academia and companies in all parts of Denmark.
 ---
 
 ### Chairman
@@ -13,8 +14,11 @@ weight: 1
 ### Secretary:
 - Thomas Filholm, Aerotak
 
-### Web and Communication:
+### Communication and newsletter:
 - Stig Staghøj Knudsen, MEK, Danmarks Tekniske Universitet
+
+### Website:
+- Jakob Hærvig, AAU ENergy, Aalborg University
 
 ### Other members:
 - Anders Christian Olesen, Vestas

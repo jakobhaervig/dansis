@@ -2,6 +2,7 @@
 title: "Guide for presenters"
 date: 2019-05-18T12:33:46+10:00
 weight: 2
+teaser: Guldelines to help you prepare a DANSIS presentation.
 ---
 
 We at DANSIS are pleased to have you as a presenter at one of our DANSIS seminars. We look forward to your presentation. In order for your presentation to be well understood and timed we urge you to consider the following suggestions and facts:
