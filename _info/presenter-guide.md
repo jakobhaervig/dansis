@@ -16,7 +16,7 @@ We at DANSIS are pleased to have you as a presenter at one of our DANSIS seminar
 - Please try to come up with useful tips to the audience on the subject of the presentation
 - Please reduce the introduction of your company or university to a minimum.
 - Please feel free to go into (extreme) detail about the subject.
-- If you have any questions, please don’t hesitate to contact DANSIS through <dansis@dansis.dk>
+- If you have any questions, please don’t hesitate to [contact DANSIS](/contact/).
 
 Thank you,
 The DANSIS Committee
