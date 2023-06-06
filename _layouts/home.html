@@ -3,9 +3,8 @@ layout: default
 bodyClass: "page-home"
 ---
 
-{% assign today_date = 'now' | date: '%Y%m%d' | times: 1 %}
-{% assign seminars = site.seminar %}
-{% assign news = site.news %}
+{% assign upcoming_seminars = site.seminar | where_exp: "sem", "sem.date >= site.time" %}
+{% assign news = site.news | sort: 'date' | reverse %}
 
 <div class="intro">
   <div class="container">
@@ -23,10 +22,11 @@ bodyClass: "page-home"
 </div>
 
 <div class="container pt-6 pb-6">
-  <h1 class="title">Latest News</h1>
+  {% if news.size != 0%}
+    <h1 class="title">Latest News</h1>
+  {% endif %}
   <div class="row">
-    {% for newsupdate in news reversed %}
-    {% assign newsupdate_date = newsupdate.date | date: '%Y%m%d' | times: 1 %}
+    {% for newsupdate in news limit:2 %}
     <div class="col-12 col-md-6 mb-2">
         <div class="news news-summary news-summary-large">
             {% if newsupdate.image %}
@@ -48,34 +48,33 @@ bodyClass: "page-home"
     {% endfor %}
   </div>
   <br>
-  <h1 class="title">Upcoming seminars</h1>
+  {% if upcoming_seminars.size != 0%}
+    <h1 class="title">Upcoming seminars</h1>
+  {% endif %}
   <div class="row">
-    {% for seminar in seminars %}
-    {% assign seminar_date = seminar.date | date: '%Y%m%d' | times: 1 %}
-    {% if today_date <= seminar_date %}
+    {% for upcoming_seminar in upcoming_seminars %}
     <div class="col-12 col-md-6 mb-2">
         <div class="seminar seminar-summary seminar-summary-large">
-            {% if seminar.image %}
+            {% if upcoming_seminar.image %}
             <div class="seminar-image">
-                <img width="200" height="200" alt="{{ seminar.title }}" class="img-fluid mb-2" src="{{ seminar.image | relative_url }}" />
+                <img width="200" height="200" alt="{{ upcoming_seminar.title }}" class="img-fluid mb-2" src="{{ upcoming_seminar.image | relative_url }}" />
             </div>
             {% endif %}
             <div class="seminar-meta">
-                <h2 class="seminar-name"><a href="{{ seminar.url | relative_url }}">{{ seminar.title }}</a></h2>
-                <p class="seminar-description">{{ seminar.date | date: '%d' | plus:'0'}} {{ seminar.date | date: '%B %Y' }}</p>
-                {% if seminar.venue %}
-                <a target="_blank" href="{{ seminar.googleurl }}" rel="noreferrer">{{ seminar.venue }}</a>
+                <h2 class="seminar-name"><a href="{{ upcoming_seminar.url | relative_url }}">{{ upcoming_seminar.title }}</a></h2>
+                <p class="seminar-description">{{ upcoming_seminar.date | date: '%d' | plus:'0'}} {{ upcoming_seminar.date | date: '%B %Y' }}</p>
+                {% if upcoming_seminar.venue %}
+                <a target="_blank" href="{{ upcoming_seminar.googleurl }}" rel="noreferrer">{{ upcoming_seminar.venue }}</a>
                 {% endif %}
             </div>
-            <div class="seminar-content">{{ seminar.content | truncate: 250 }}</div>
-            {% if seminar.identifier %}
+            <div class="seminar-content">{{ upcoming_seminar.content | truncate: 250 }}</div>
+            {% if upcoming_seminar.identifier %}
             <script src="https://billetto.dk/embed.js"></script><style>.billetto-btn { line-height: 1.75rem; position: relative; display: inline-block; font-weight: 400; white-space: nowrap; text-align: center; background-image: none; border: 1px solid transparent; cursor: pointer; user-select: none; touch-action: manipulation; height: 32px; padding: 1px 15px; font-size: 16px; border-radius: 6px; color: #1b1d1e; background: #0eafee; border-color: #0eafee; text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.12); box-shadow: 0 2px 0 rgba(0, 0, 0, 0.045); text-decoration: none; } .billetto-btn:hover, .billetto-btn:focus, .billetto-btn:active { text-decoration: none; outline: 0; box-shadow: none; color: #1b1d1e;} .billetto-btn[disabled] { cursor: not-allowed; } .billetto-btn[disabled], .billetto-btn[disabled]:hover, .billetto-btn[disabled]:focus, .billetto-btn[disabled]:active { color: rgba(0, 0, 0, 0.25); background: #ffffff; border-color: #d9d9d9; text-shadow: none; box-shadow: none; }</style><a class="billetto-btn" href="https://billetto.dk/e/{{seminar.identifier}}/select?color=%230eafee">Register for the seminar</a>
             {% else %}
             <h3 class="content">Not yet open for registration</h3>
             {% endif %}
         </div>
     </div>
-    {% endif %}
     {% endfor %}
   </div>
 </div>
