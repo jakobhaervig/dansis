@@ -15,7 +15,7 @@ A personal membership gives free admission to all DANSIS events in a year, after
 ## Company membership
 A company membership allows free admission to all events for you and your colleagues in a year, after which the membership then must be renewed. The prize of a company membership is 1500 DKK per year. By becoming a member you support DANSIS as a company which gives us greater opportunities to create interest and opportunities within the discipline.
 
-[Contact DANSIS to become a personal member](/contact/)
+[Contact DANSIS to become a company member](/contact/)
 
 ## Student membership
 Student memberships are free and do not require any subscription.
