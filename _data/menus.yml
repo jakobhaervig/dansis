@@ -1,6 +1,6 @@
 main:
   - name: "About DANSIS"
-    url: "/"
+    url: "/about-dansis/"
     weight: 1
   - name: "Seminars"
     url: "/seminar/"
