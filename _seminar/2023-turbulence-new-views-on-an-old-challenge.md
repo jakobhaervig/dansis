@@ -7,7 +7,7 @@ googleurl: "https://goo.gl/maps/FBfsnFPY1HA4eVo3A"
 identifier: "turbulence-new-views-on-an-old-challenge-billetter-804980"
 ---
 
-Artificial Intelligence is gaining popularity in many fluid mechanics related applications. For many fluid mechanical applications it's common to have huge amounts of data from both experiments or simulations. Using machine learning techniques we can process and extract useful patterns in complex data in order to simplify problems are create reduced order models. This seminar focuses on both recent advances and new applications.
+In development of solutions involving fluid mechanics, our limited understanding of turbulence and its modelling is still a major challenge. The seminar will present new views based on measurements and experience from industry.
 
 ## Programme
 
