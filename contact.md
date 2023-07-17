@@ -1,5 +1,5 @@
 ---
-title: Contact DANSIS
+title: Contact
 layout: contact
 description: Contact
 ---

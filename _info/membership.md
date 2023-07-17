@@ -1,5 +1,5 @@
 ---
-title: Memberships
+title: "Membership"
 date: 2022-09-18
 weight: 1
 teaser: Overview of DANSIS membership options and how to become a member.
