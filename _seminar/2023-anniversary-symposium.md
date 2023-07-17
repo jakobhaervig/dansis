@@ -11,7 +11,7 @@ DANSIS celebrates 25 years of supporting the Danish community on industrial flui
 
 ## Programme
 
-### 11 September
+### Monday, 11 September
 
 | Time  |             |             |
 | ----- | ----------- | ----------- |
@@ -30,7 +30,7 @@ DANSIS celebrates 25 years of supporting the Danish community on industrial flui
 | 20:30 | Development and future outlook of the Danish wind turbine industry – with a fluid mechanics twist | Henrik Stiesdal, Stiesdal, Denmark |
 | 21:30 | Social - talk with old and new friends | |
 
-### 12 September
+### Tuesday, 12 September
 
 | Time  |             |             |
 | ----- | ----------- | ----------- |
@@ -85,7 +85,7 @@ The open source CFD toolbox, OpenFOAM, is used by several large Danish companies
 | 10:50 | HELYX Unified Solver Framework – Why, What, Where and When? | Eugene De Villiers, Engys, UK |
 | 11:15 | Discussion | |
 
-Deadline for registration is 30 June .
+Deadline for registration is 30 June.
 
 Do you wish to have a stand at the event? 
-Please contact Damien Grévain for details and coordination of stand space reservation.
+Please contact [Damien Grévain](dagrevain@gmail.com) for details and coordination of stand space reservation.
