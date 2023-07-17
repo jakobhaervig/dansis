@@ -1,4 +1,6 @@
-url: '/'
+url: 'https://dansis.dk'
+baseurl: '/'
+
 permalink: pretty
 title: 'DANSIS'
 
