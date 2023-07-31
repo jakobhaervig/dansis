@@ -69,9 +69,9 @@ This workshop will be centered on the users’ approach and experience with HPC 
 | Time  |             |             |
 | ----- | ----------- | ----------- |
 | 10:00 | Introduction to HPC landscape. Experience of HPC through the years. Example of technico-economic comparison of Cloud vs. On-prem solution | Niels Linnemann, Nilatek, Denmark |
-| 10:40 | From Workstations, to Cloud first strategy | Damien Grévain, FLS, Denmark |
+| 10:40 | Your path to Cloud HPC - Options, Implementation, Challenges, and Benefits | Wolfgang Gentzsch, UberCloud |
 | 11:00 | Moving from 2 OnPrem HPC in DK and USA to Cloud HPC. Queue system | Emil Z. Rath, Babcock & Wilcox Renewable, Denmark |
-| 11:20 | Discussions and debate with the audience and presenters. Open themes. Suggestions: Cyber safety, organization, ownership, cooperation with IT specialists (internal / external (consultants)), sharing resources with colleagues across organization and globe. Please chip in with any HPC related themes you would like to debate.| Facilitator: Damien Grévain |
+| 11:20 | Discussions and debate with the audience and presenters. Open themes. Suggestions: Cyber safety, organization, ownership, cooperation with IT specialists (internal / external (consultants)), sharing resources with colleagues across organization and globe. Please chip in with any HPC related themes you would like to debate. | Facilitator: Damien Grévain |
 
 ## 3. OpenFOAM
 The open source CFD toolbox, OpenFOAM, is used by several large Danish companies as an integrated part of their design- and innovation process. Several Danish universities support the global OpenFOAM community with powerful extension to OpenFOAM. One subfield where Denmark has a particularly strong position is within multiphase flows that are important within the water and energy sectors as well as in chemical and food process engineering. The workshop will have presentations by international developers and with Danish users/developers. Discussions will include exchange of user experience and of future collaboration in Denmark.
