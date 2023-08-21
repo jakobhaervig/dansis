@@ -22,7 +22,7 @@ DANSIS celebrates 25 years of supporting the Danish community on industrial flui
 | 14:45 | Coffee break | |
 | 15:15 | Lattice Boltzmann method in the wild | Stefan Zitz, RUC, Denmark |
 | 15:45 | Use of SPH in offshore floating wind turbine design | Ahmed Salih, Stiesdal Offshore, Denmark |
-| 16:15 | SPH for gear box lubrication applications | TBA, Dive Solutions, Germany |
+| 16:15 | Impinging Jet Cooling of E-Motors using SPH | Shreyas Joshi, FIFTY2 Technology GmbH, Germany |
 | 16:45 | SPH usage at Volvo Cars – Strengths and weaknesses | Torbjörn Virdung, Volvo Cars, Sweden |
 | 17:15 | DANSIS graduate award | |
 | 17:35 | Break – check-in to rooms. | |
