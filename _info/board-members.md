@@ -22,11 +22,10 @@ teaser: List of current DANSIS board members, which represent both academia and 
 
 ### Other members:
 - Anders Christian Olesen, Vestas
-- Bo Gervang, Green Hydrogen Systems
-- Damien Grévain, FLSmidth
+- Bo Gervang, Danmarks Tekniske Universitet
+- Damien Grévain
 - Jakob Hærvig, Aalborg Universitet
 - Johan Rønby, Roskilde Universitet
 - Kristian Mark Ingvorsen, GEA
-- Morten Ryge Bøgild, Bühler (Haas-Meincke)
 - Nicholas Pedersen, Grundfos
 - Simon Matlok, MAN Energy Solutions
