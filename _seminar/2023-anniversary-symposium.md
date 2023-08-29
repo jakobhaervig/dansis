@@ -86,4 +86,4 @@ The open source CFD toolbox, OpenFOAM, is used by several large Danish companies
 | 11:15 | Discussion | |
 
 Do you wish to have a stand at the event? 
-Please contact [Damien Grévain](dagrevain@gmail.com) for details and coordination of stand space reservation.
+Please contact [Damien Grévain](mailto:dagrevain@gmail.com) for details and coordination of stand space reservation.
