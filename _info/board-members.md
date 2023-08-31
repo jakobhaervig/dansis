@@ -18,7 +18,7 @@ teaser: List of current DANSIS board members, which represent both academia and 
 - Stig Staghøj Knudsen, MEK, Danmarks Tekniske Universitet
 
 ### Website:
-- Jakob Hærvig, AAU Energy, Aalborg University
+- Jakob Hærvig, Aalborg University
 
 ### Other members:
 - Anders Christian Olesen, Vestas
