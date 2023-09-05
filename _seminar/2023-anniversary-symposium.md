@@ -27,14 +27,14 @@ DANSIS celebrates 25 years of supporting the Danish community on industrial flui
 | 17:15 | DANSIS graduate award | |
 | 17:35 | Break – check-in to rooms. | |
 | 18:30 | Dinner | |
-| 20:30 | Development and future outlook of the Danish wind turbine industry – with a fluid mechanics twist | Henrik Stiesdal, Stiesdal, Denmark |
+| 20:30 | Unlocking Flow Insights: New Coupled and Scale-bridging Approaches using OpenFOAM | Holger Marschall, TU Darmstadt, Germany |
 | 21:30 | Social - talk with old and new friends | |
 
 ### Tuesday, 12 September
 
 | Time  |             |             |
 | ----- | ----------- | ----------- |
-| 09:00 | Unlocking Flow Insights: New Coupled and Scale-bridging Approaches using OpenFOAM | Holger Marschall, TU Darmstadt, Germany |
+| 09:00 | Development and future outlook of the Danish wind turbine industry – with a fluid mechanics twist | Henrik Stiesdal, Stiesdal, Denmark |
 | 10:00 | Workshops (see tracks below) | |
 | 12:00 | Lunch | |
 | 13:00 | Closing of Symposium | |
