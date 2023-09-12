@@ -1,6 +1,6 @@
 ---
 title: "Dansis award 2023"
-date: 2023-09-12
+date: 2023-09-11
 image: "images/news/2023-dansis-award.jpg"
 ---
 
