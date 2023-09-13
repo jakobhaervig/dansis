@@ -51,6 +51,9 @@ bodyClass: "page-seminars"
                 <div class="seminar-meta">
                     <h2 class="seminar-name"><a href="{{ seminar.url | relative_url }}">{{ seminar.title }}</a></h2>
                     <p class="seminar-description">{{ seminar.date | date: '%d' | plus:'0'}} {{ seminar.date | date: '%B %Y' }}</p>
+                    {% if seminar.filelink %}
+                    <a target="_blank" href="{{ seminar.filelink }}" rel="noreferrer">Browse presentation slides</a>
+                    {% endif %}
                 </div>
             </div>
         </div>
