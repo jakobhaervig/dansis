@@ -44,6 +44,7 @@ Student memberships are free and do not require any subscription.
 - Grundfos Holding A/S
 - Haldor Topsøe A/S
 - Kamstrup A/S
+- Kirkholm Maskiningeniører A/S
 - LIC Engineering A/S
 - Lunds University
 - Multi-Wing International A/S
