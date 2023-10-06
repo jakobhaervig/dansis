@@ -1,7 +1,7 @@
 ---
-title: "Workflows - Parameterization , Integration and Automation"
+title: "Mini Research Seminar 2 (Online)"
 date: 2021-02-03
-image: "images/seminar/2021-Mini-Research-Seminar-2-(Online).jpg"
+image: "images/seminar/2021-Mini-Research-Seminar-2-(Online).png"
 venue: " Online"
 googleurl: ""
 identifier:
