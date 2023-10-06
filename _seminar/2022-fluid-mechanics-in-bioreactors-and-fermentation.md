@@ -26,8 +26,7 @@ From the industry, we will meet experts from companies including Chr. Hansen, Fr
 | ----- | ----------- | ----------- |
 | 09:00 | Registration|             |
 | 09:30| Welcome     |  Kristian Ingvorsen, GEA, Denmark |
-| 09:45 | From micro to macro - scale matters  |    Ulrich Krühne, Department of Chemical and Biochemical Engineering – PROSYS,
-Denmark |
+| 09:45 | From micro to macro - scale matters  |    Ulrich Krühne, Department of Chemical and Biochemical Engineering – PROSYS|
 | 10:15 |  Reducing risk and accelerating bioprocess scale up using computational modelling <a href="https://foreninglet-cms-files.s3-eu-west-1.amazonaws.com/2282/skP8xCtjRCLm.pdf">[slides]</a>|Alex Smith, CPI, United Kingdom |
 | 10:45 | Coffee Break |  |
 | 11:15 |  Flow following sensor technology, a route to validated fluid dynamic models <a href="https://foreninglet-cms-files.s3-eu-west-1.amazonaws.com/2282/PNbgHtHR7nAy.pdf">[slides]</a>|  Tannaz Tajsoleiman, Freesense, Denmark|

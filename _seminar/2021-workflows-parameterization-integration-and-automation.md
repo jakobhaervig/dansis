@@ -29,4 +29,4 @@ Automated workflows lead to new possibilities in terms of multidisciplinary and 
 | 14:00 |  Holistic design - Examples and potentials |  Stefan Harries, Friendship Systems, Germany |
 | 14:30 | Coffee break | |
 | 15:00 | Simulation Driven Development at Grundfos |  Nicholas Engen Pedersen, Grundfos, Denmark |
-| 14:30 | Closing Remarks | Knud Erik Meyer, DANSIS chairman |
+| 15:30 | Closing Remarks | Knud Erik Meyer, DANSIS chairman |
