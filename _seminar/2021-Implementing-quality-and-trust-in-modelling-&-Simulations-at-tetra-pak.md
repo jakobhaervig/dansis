@@ -1,5 +1,5 @@
 ---
-title: "Workflows - Parameterization , Integration and Automation"
+title: "Implementing Quality and Trust in Modelling & Simulations at Tetra Pak"
 date: 2021-03-17
 image: "images/seminar/2021-Implementing-quality.jpg"
 venue: " Online"
