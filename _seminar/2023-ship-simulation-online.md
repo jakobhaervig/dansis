@@ -18,7 +18,6 @@ You can join the seminar using Zoom at the following link: https://dtudk.zoom.us
 | Time  |             |             |
 | ----- | ----------- | ----------- |
 | 15:00 | Welcome | Knud Erik Meyer, DANSIS chairman |
-| 15:05 | Welcome     | Anders Christian Olesen, Vestas Wind Systems A/S, Denmark |
 | 10:15 | Data-driven Fluid Mechanics and Machine Learning | Mahdi Abkar, Department of Mechanical and Production Engineering, Section of Fluid & Energy, Aarhus University |
 | 11:15 | Coffee break | |
 | 11:30 | 3D deep-learning for faster product development and CFD frontloading | Pierre Baque, CEO, Neural concept |
