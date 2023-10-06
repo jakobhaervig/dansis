@@ -3,7 +3,7 @@ title: "Floating Renewable Energy"
 date: 2022-03-30
 image: "images/seminar/2022-Floating-Renewable-Energy.png"
 venue: "DHI Agern Allé 5 2970 Hørsholm"
-googleurl: "https://maps.app.goo.gl/7HsfiDsYVzpBy92J8"
+googleurl: "https://maps.app.goo.gl/YsFfYQ63nZjStrKr6"
 identifier:
 ---
 
