@@ -25,12 +25,12 @@ For practical reasons the seminar is split between DTU and DHI in Hørsholm. The
 | 10:00 | Welcome     |  Stig Staghøj Knudsen, DTU, Denmark |
 | 10:10 | Small is Beautiful? Simulations of a Compact Wave Energy Converter for Seabed Power and Communications |    Robert Read, DTU, Denmark |
 | 10:45 | Coffee break | |
-| 11:10 | Application of CFD in the design of floating wind turbine foundations |  Amin Ghadirian, Stiesdal Offshore Technologies, Denmark |
+| 11:10 | Application of CFD in the design of floating wind turbine foundations <a href="https://foreninglet-cms-files.s3-eu-west-1.amazonaws.com/2282/AYD9OAFQFqLk.pdf">[slides]</a>|  Amin Ghadirian, Stiesdal Offshore Technologies, Denmark |
 | 11:40 |  Creating confidence and removing uncertainty by numerical simulations |  Rune P. Bloom, CrestWing,  Denmark|
 | 12:10 |  Lunch and relocation to DHI | |
 | 13:15 |   Guided tour in test facilities at DHI | |
 | 14:00 |  Hybrid modelling for floating offshore wind developments – coupling physical models, numerical models and data |  Thor Ugelvig Petersen and Pietro Danilo Tomaselli, DHI, Denmar|
-| 14:30 |  Application of lab-scale experiments in the design of floating wind turbine foundations  |  Thomas Raahauge Nielsen, Stiesdal Offshore Technologies, Denmark|
+| 14:30 |  Application of lab-scale experiments in the design of floating wind turbine foundations <a href="https://foreninglet-cms-files.s3-eu-west-1.amazonaws.com/2282/cfWa6PPHnQkt.pdf">[slides]</a> |  Thomas Raahauge Nielsen, Stiesdal Offshore Technologies, Denmark|
 | 15:00 |   Coffee break  |  |
 | 15:30 |   How to handle inertia forces on Wavepiston full scale WEC systems | Kristian Glejbøl, Wavepiston, Denmark |
 | 16:00 |   Closing remarks  |  |
