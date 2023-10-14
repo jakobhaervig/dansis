@@ -10,7 +10,6 @@ identifier:
 ### Large Scale Flow
 Large scale flows has a huge impact on our everyday lifes, politics, and businesses. DANSIS invites you to a seminar on Large Scale Flow with a broad focus from Climate Science and Meteorology to Wind farms and cities, and how to measure and simulate these complex flows.
 
-The seminar will be held at DTU in Kgs. Lyngby.
 
 ## Programme
 

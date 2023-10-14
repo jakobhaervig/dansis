@@ -1,7 +1,7 @@
 ---
 title: "Erosion and Cavitation"
 date: 2019-05-22
-image: "images/seminar/2019-Erosion-and-Cavitation"
+image: "images/seminar/2019-Erosion-and-Cavitation.png"
 venue: "Grundfos Center, Poul Due Jensens Vej 23, 8850, Bjerringbro"
 googleurl: "https://maps.app.goo.gl/CzCx4C9c42GyBixSA"
 identifier:
