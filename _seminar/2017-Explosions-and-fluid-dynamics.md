@@ -24,7 +24,7 @@ DANSIS invites you to a seminar that will be on the fluid mechanics of explosion
 | 11:30 |Lunch with sandwiches|  |
 | 12:20 |Production tour | |
 | 13:20 | MRI in flow metering - quantitative measurements with Medical imaging | Martin Bruschewski, Institue of Fluid Mechanics, University of Rostock, Germany|
-| 14:00 | Effects from installations and dynamic usage on house hold meters - a Flowcenter Danmark project | Johan Bunde Kondrup and Erik Jensen, FORCE Technology|
+| 14:00 | Effects from installations and dynamic usage on house hold meters - a Flowcenter Danmark project | Johan Bunde Kondrup and Erik Jensen, FORCE Technology |
 | 14:30 | Coffee break | |
 | 14:50 | Clamp on ultrasound flow measurement - application range and calibration | Bernhard Funck, Flexim GmbH, Germany |
 | 15:20 | Susceptibility to flow conditions of Electromagnetic and Ultrasonic Flowmeters | Torben Amby, Danfoss |
