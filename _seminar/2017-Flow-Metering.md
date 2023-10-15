@@ -1,7 +1,7 @@
 ---
 title: "Flow Metering"
 date: 2017-10-04
-image: "2017-Flow-Metering.png"
+image: "images/seminar/2017-Flow-Metering.png"
 venue: "Kamstrup, Industrivej 28, Stilling, Skanderborg"
 googleurl: "https://maps.app.goo.gl/YAba1dB9ALWYqmxC8"
 identifier:
