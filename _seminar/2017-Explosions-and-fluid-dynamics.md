@@ -1,7 +1,7 @@
 ---
 title: "Explosions and fluid dynamics"
 date: 2017-04-05
-image: "images/seminar/2017-Explotions-and-fluid.jpg"
+image: "images/seminar/2017-explosions-and-fluid-dynamics.jpg"
 venue: "Inge Lehmanns Gade 10, 8000 Aarhus"
 googleurl: "https://maps.app.goo.gl/ggJaqvDRLuv4go687"
 identifier:

@@ -1,7 +1,7 @@
 ---
 title: "Implementing Quality and Trust in Modelling & Simulations at Tetra Pak"
 date: 2021-03-17
-image: "images/seminar/2021-Implementing-quality.jpg"
+image: "images/seminar/2021-Implementing-quality-and-trust-in-modelling-&-Simulations-at-tetra-pak.jpg"
 venue: " Online"
 googleurl: ""
 identifier:

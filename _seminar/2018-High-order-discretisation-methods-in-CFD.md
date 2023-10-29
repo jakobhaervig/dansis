@@ -1,7 +1,7 @@
 ---
 title: "High order discretisation methods in CFD"
 date: 2018-03-21
-image: "images/seminar/2018-High-Order.png"
+image: "images/seminar/2018-high-order-discretisation-methods-in-cfd.png"
 venue: "Inge Lehmanns Gade 10, 8000 Aarhus"
 googleurl: "https://maps.app.goo.gl/ggJaqvDRLuv4go687"
 identifier:
@@ -19,15 +19,15 @@ During the seminar, we will address the advantages of higher order discretisatio
 | ----- | ----------- | ----------- |
 | 09:30 | Registration|             |
 |10:00 | Welcome     |Bo Gervang, Aarhus University|
-|10:10 |An introduction to high order and mimetic discretization methods for utilization in CFD | Bo Gervang, Aarhus University <a href="https://foreninglet-cms-files.s3-eu-west-1.amazonaws.com/2282/k5nd1wyr7Mkc.pdf">[slides]</a>|
+|10:10 |An introduction to high order and mimetic discretization methods for utilization in CFD | Bo Gervang, Aarhus University|
 | 10:50 | Coffee break | |
-| 11:10 |Incorporation of Mimetic methods in CFD | Marc Gerritsma , TU Delft <a href="https://foreninglet-cms-files.s3-eu-west-1.amazonaws.com/2282/A28OFGzTFPz6.pdf">[slides]</a> |
+| 11:10 |Incorporation of Mimetic methods in CFD | Marc Gerritsma , TU Delft |
 | 11:50 | Lunch | |
-| 12:30 |Mimetic discretization of the NS equations with emphasis on sedimentation transport| Artur Palha - ASML and TU/e <a href="https://foreninglet-cms-files.s3-eu-west-1.amazonaws.com/2282/xyWBHKTQNsKG.pdf">[slides]</a> |
-| 13:10 |Spectral/hp element, scale resolving modelling for high Reynolds number Road and Race Car Aerodynamics |Spencer Sherwin, Imperial College <a href="https://foreninglet-cms-files.s3-eu-west-1.amazonaws.com/2282/wkbMdgBZdAqs.pdf">[slides]</a>  | 
+| 12:30 |Mimetic discretization of the NS equations with emphasis on sedimentation transport| Artur Palha - ASML and TU/e |
+| 13:10 |Spectral/hp element, scale resolving modelling for high Reynolds number Road and Race Car Aerodynamics |Spencer Sherwin, Imperial College   | 
 | 13:50 | Coffee break | |
-| 14:10 | Non-intrusive Reduced Order Models for CFD | Jan Hesthaven, EPFL  <a href="https://foreninglet-cms-files.s3-eu-west-1.amazonaws.com/2282/BC6sBdPjeHya.pdf">[slides]</a>|
-| 14:50 | How to innovate using applied and computational mathematics – on bridging research in modern scientific computing paradigms with industrial applications | Allan Engsig-Karup, DTU <a href="https://foreninglet-cms-files.s3-eu-west-1.amazonaws.com/2282/C2x3NjYTwfNA.pdf">[slides]</a>|
-| 15:30 | Mimetic methods for diffusion problems |Kennet Olesen, MIIR  <a href="https://foreninglet-cms-files.s3-eu-west-1.amazonaws.com/2282/qq5HCdbgcFaj.pdf">[slides]</a> |
-| 15:50 | Incorporating complex physics in high order codes: reactive and multiphase flows |Ananias Tompoulidis <a href="https://foreninglet-cms-files.s3-eu-west-1.amazonaws.com/2282/B5ezDn4hycR9.pdf">[slides]</a> |
+| 14:10 | Non-intrusive Reduced Order Models for CFD | Jan Hesthaven, EPFL  |
+| 14:50 | How to innovate using applied and computational mathematics – on bridging research in modern scientific computing paradigms with industrial applications | Allan Engsig-Karup, DTU |
+| 15:30 | Mimetic methods for diffusion problems |Kennet Olesen, MIIR |
+| 15:50 | Incorporating complex physics in high order codes: reactive and multiphase flows |Ananias Tompoulidis |
 | 16:30 | Closing remarks |Knud Erik Meyer, DANSIS chairman |

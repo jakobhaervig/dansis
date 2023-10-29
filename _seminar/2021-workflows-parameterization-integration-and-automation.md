@@ -1,7 +1,7 @@
 ---
 title: "Workflows - Parameterization , Integration and Automation"
 date: 2021-10-06
-image: "images/seminar/2021-workflows-parameterization.jpg"
+image: "images/seminar/2021-workflows-parameterization-integration-and-automation.jpg"
 venue: "GEA Gladsaxevej 305, 2860 Søborg"
 googleurl: "https://maps.app.goo.gl/NvdDTaGAZN3dpzDf8"
 identifier:

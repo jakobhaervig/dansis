@@ -1,7 +1,7 @@
 ---
 title: "OpenFOAM®"
 date: 2019-03-27
-image: "images/seminar/2019-OpenFOAM.png"
+image: "images/seminar/2019-openfoam.png"
 venue: "Aalborg University Copenhagen, A.C. Meyers Vænge 15, 2450 København SV Seminarrum 1.008 (Auditoriet)"
 googleurl: "https://maps.app.goo.gl/myLdqsLaHdxXy7As8"
 identifier:
@@ -16,11 +16,11 @@ For this seminar, we have invited several experienced users from Denmark to shar
 | Time  |             |             |
 | ----- | ----------- | ----------- |
 | 09:00 | Registration|             |
-|09:30 | The current OpenFOAM landscape   | Johan Roenby, Assistant Professor, AAU <a href="https://foreninglet-cms-files.s3-eu-west-1.amazonaws.com/2282/Z6RBfkbX3Esx.pdf">[slides]</a> |
+|09:30 | The current OpenFOAM landscape   | Johan Roenby, Assistant Professor, AAU  |
 |09:45 | OpenFOAM Governance|  Fred Mendonça, Managing Director, OpenCFD |
 | 10:30 | Coffee break | |
-| 10:50 | Development of the finite volume method for solid mechanics in OpenFOAM  |Philip Cardiff, Assistant Professor, University College Dublin  <a href="https://foreninglet-cms-files.s3-eu-west-1.amazonaws.com/2282/tMWCTD9W1wZQ.pdf">[slides]</a>|
-| 11:35 | Modelling Wave-Structure-Soil Interaction with OpenFOAM| Hisham Elsafti, Research Associate, TU Braunschweig <a href="https://foreninglet-cms-files.s3-eu-west-1.amazonaws.com/2282/8wkqMXdaxtBs.pdf">[slides]</a>|
+| 10:50 | Development of the finite volume method for solid mechanics in OpenFOAM  |Philip Cardiff, Assistant Professor, University College Dublin |
+| 11:35 | Modelling Wave-Structure-Soil Interaction with OpenFOAM| Hisham Elsafti, Research Associate, TU Braunschweig |
 | 12:00| Lessons learned from 10 years use of OpenFOAM at Vestas |Yavor V. Hristov, Vestas|
 | 12:25|Lunch | |
 | 13:25|Open-source CFD in the building industry: The journey towards the development of the virtual wind tunnel |Stefano Capra, Rambøll|

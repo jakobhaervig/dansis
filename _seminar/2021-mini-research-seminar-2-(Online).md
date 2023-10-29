@@ -1,7 +1,7 @@
 ---
 title: "Mini Research Seminar 2 (Online)"
 date: 2021-02-03
-image: "images/seminar/2021-Mini-Research-Seminar-2-(Online).png"
+image: "images/seminar/2021-mini-research-seminar-2-(Online).png"
 venue: " Online"
 googleurl: ""
 identifier:
@@ -18,11 +18,11 @@ The seminar is split into a number of online seminars. This is the second semina
 | Time  |             |             |
 | ----- | ----------- | ----------- | 
 | 14:00 | Welcome     |  |
-| 14:10 |  Simon Ribergaard (DTU Mechanical Engineering)| Pushing the boundaries of high-resolution 4D particle tracking velocimetry <a href="https://foreninglet-cms-files.s3-eu-west-1.amazonaws.com/2282/23ZAQ2r7dArb.pdf">[slides]</a>|
-| 14:30 |  Kasper Gram Bilde (AAU and Alfa Laval)   | Multiphase Modelling of the Marine Scrubber Water Cleaning System <a href="https://foreninglet-cms-files.s3-eu-west-1.amazonaws.com/2282/N5t8rbhq343q.pdf">[slides]</a>|
+| 14:10 |  Simon Ribergaard (DTU Mechanical Engineering)| Pushing the boundaries of high-resolution 4D particle tracking velocimetry |
+| 14:30 |  Kasper Gram Bilde (AAU and Alfa Laval)   | Multiphase Modelling of the Marine Scrubber Water Cleaning System |
 | 14:50 |Break in breakout rooms    |  |
-| 15:10 | Arash Nemati (DTU Mechanical Engineering)   |Numerical Simulation of Combustion in Dual-Fuel Large Marine Engines <a href="https://foreninglet-cms-files.s3-eu-west-1.amazonaws.com/2282/Az1OL1FzgeD7.pdf">[slides]</a> | 
-| 15:30 | Jakob Roar Bentzon (DTU Mechanical Engineering)   |The Influence of Turbulent Transport on Surface Reactions in Liquid-Phase Flow <a href="https://foreninglet-cms-files.s3-eu-west-1.amazonaws.com/2282/hNmPhdxAPxKr.pdf">[slides]</a> | 
+| 15:10 | Arash Nemati (DTU Mechanical Engineering)   |Numerical Simulation of Combustion in Dual-Fuel Large Marine Engines | 
+| 15:30 | Jakob Roar Bentzon (DTU Mechanical Engineering)   |The Influence of Turbulent Transport on Surface Reactions in Liquid-Phase Flow  | 
 | 15:50 | Future program by the DANSIS chairman    |  |
 
 Organising committee:

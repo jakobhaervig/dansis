@@ -1,7 +1,7 @@
 ---
 title: "The New Poul la Cour Wind Tunnnel"
 date: 2018-04-10
-image: "images/seminar/2018-The-new-Poul-la.jpg"
+image: "images/seminar/2018-the-new-poul-la-cour-wind-tunnnel.jpg"
 venue: "Niels Bohr Auditorium, DTU-Risø, Frederiksborgvej 399, 4000 Roskilde"
 googleurl: "https://maps.app.goo.gl/ftHND4tptJRN6tmo7"
 identifier:
@@ -21,13 +21,13 @@ DANSIS invites you to a visit to the wind tunnel combined with an exiting semina
 |09:30 | Welcome     | Flemming Rasmussen, DTU Wind Energy|
 |09:40 |The design & run-in of the Poul la Cour Wind Tunnel | Christian Bak, DTU Wind Energy|
 | 10:20 | Coffee break | |
-| 10:50 | The use of wind tunnels in the Wind Energy Industry | Jesper Monrad Laursen, SiemensGamesa Renewable Energy <a href="https://foreninglet-cms-files.s3-eu-west-1.amazonaws.com/2282/GLTEE91QaQgf.pdf">[slides]</a>|
-| 11:20 |  Simultaneous use of wind tunnel testing and CFD | Christoph Mau, Suzlon Blade Science Center <a href="https://foreninglet-cms-files.s3-eu-west-1.amazonaws.com/2282/BO5hPBe4kPmT.pdf">[slides]</a>|
+| 10:50 | The use of wind tunnels in the Wind Energy Industry | Jesper Monrad Laursen, SiemensGamesa Renewable Energy |
+| 11:20 |  Simultaneous use of wind tunnel testing and CFD | Christoph Mau, Suzlon Blade Science Center |
 | 11:50 | Lunch + Tour of the Poul la Cour Wind Tunnel|  |
 | 13:50 |DANSIS graduate Award 2018 ceremony and presentation| |
-| 14:10 | Experimental methods for airborne wind energy |Johannes Oehler, TUdelft <a href="https://foreninglet-cms-files.s3-eu-west-1.amazonaws.com/2282/q9396eztM4xp.pdf">[slides]</a>  | 
+| 14:10 | Experimental methods for airborne wind energy |Johannes Oehler, TUdelft  | 
 | 14:40 | Coffee break | |
-| 15:00 | Transferring noise data from wind tunnels to rotors | Erik Sloth, Vestas <a href="https://foreninglet-cms-files.s3-eu-west-1.amazonaws.com/2282/QMe4GyXWtYXe.pdf">[slides]</a> |
-| 15:30 | The acoustic measurement setup in the Poul la Cour Wind Tunnel & first results | Andreas Fischer, DTU Wind Energy <a href="https://foreninglet-cms-files.s3-eu-west-1.amazonaws.com/2282/tDteYATFPDjC.pdf">[slides]</a> |
+| 15:00 | Transferring noise data from wind tunnels to rotors | Erik Sloth, Vestas  |
+| 15:30 | The acoustic measurement setup in the Poul la Cour Wind Tunnel & first results | Andreas Fischer, DTU Wind Energy |
 | 16:00 | Closing Remarks |Knud Erik Meyer, DANSIS chairman |
 | 16:10 | End of Seminar | |
