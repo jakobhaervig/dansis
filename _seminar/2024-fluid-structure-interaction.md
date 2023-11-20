@@ -11,6 +11,8 @@ Fluid structure interaction is part of many applications and plays an important 
 Computation of Fluid Structure Interaction is far from trivial and requires stable nummerical models of both the fluid and structural part of the problem as well as suitable coupling algoritms.
 In this seminar we will gain insights from some of the expects within the field from academia and industry in Denmark and abroad. 
 
+After the seminar (around 16:10) we will have this years general assembly. Please note that the general assembly will be in Danish.
+
 ## Programme
 
 
@@ -23,9 +25,10 @@ In this seminar we will gain insights from some of the expects within the field 
 | 11:00 | Dynamic Fluid Structure Interaction of Racing Sail Boats | Stig Staghøj Knudsen, Staghoj, Denmark |
 | 11:30 | FSI og Fishing net | Joakim Hagglund, OneSubsea, Sweden |
 | 12:00 | Lunch and lab tour | |
-| 13:30 | Kite | Jelle Poland, Delft University of Technology, Netherlands |
+| 13:30 | FSI modelling on soft kites, measurements and validation | Jelle Poland and Oriol Cayon, Delft University of Technology, Netherlands |
 | 14:00 | Hydro-Elastic Analysis of Oscillating Plates in Normal Flow | Jacob Andersen, Aalborg University, AAU Build, Denmerk |
 | 14:30 | Coffee break | |
 | 15:00 | FSI capabilites at Tetra Pak | Andreas Lindahl, Tetra Pak, Sweden |
 | 15:30 | FSI on cars | Andy Lewis, Aerotak, Denmark |
 | 16:00 | Closing remarks | Knud Erik Meyer, DTU Construct, Denmark |
+| 16:10 | General assembly | |
