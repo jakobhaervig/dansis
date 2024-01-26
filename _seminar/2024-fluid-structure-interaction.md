@@ -23,10 +23,10 @@ After the seminar (around 16:10) we will have this years general assembly. Pleas
 |  9:45 | Introduction to FSI | Hua-Dong Yao, Chalmers University of Technology, Sweden |
 | 10:30 | Coffee break | |
 | 11:00 | Dynamic Fluid Structure Interaction of Racing Sail Boats | Stig Staghøj Knudsen, Staghoj, Denmark |
-| 11:30 | FSI og Fishing net | Joakim Hagglund, OneSubsea, Sweden |
+| 11:30 | Hydro-Elastic Analysis of Oscillating Plates in Normal Flow | Jacob Andersen, Aalborg University, AAU Build, Denmark |
 | 12:00 | Lunch and lab tour | |
 | 13:30 | FSI modelling on soft kites, measurements and validation | Jelle Poland and Oriol Cayon, Delft University of Technology, Netherlands |
-| 14:00 | Hydro-Elastic Analysis of Oscillating Plates in Normal Flow | Jacob Andersen, Aalborg University, AAU Build, Denmerk |
+| 14:00 | FSI og Fishing net | Joakim Hagglund, OneSubsea, Sweden |
 | 14:30 | Coffee break | |
 | 15:00 | FSI capabilites at Tetra Pak | Andreas Lindahl, Tetra Pak, Sweden |
 | 15:30 | FSI on cars | Andy Lewis, Aerotak, Denmark |
