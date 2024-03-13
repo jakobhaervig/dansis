@@ -7,9 +7,9 @@ googleurl: "https://maps.app.goo.gl/znc7ssyauJwKPz5o8"
 identifier: "fluid-structure-interaction-billetter-897875"
 ---
 
-We often want to reduce noise generated from flows. Examples are wind turbines and fans. One of the main purposes of Poul la Cour Tunnel at 
-Risø is to facility high quality measurements of aeroacoustics on airfoils at high Reynolds numbers. We will visit the tunnel and look at measurement techniques related to aeroacoutics. 
-We will also look at computational methods and applications for wind turbines and fans.
+We often want to reduce noise generated from flows. Examples are wind turbines and fans. To reduce noise, the sources of the noise must be identified and the physical mechanisms must be analysed. 
+One of the main purposes of Poul la Cour Tunnel at Risø is to facility high quality measurements of aeroacoustics on airfoils at high Reynolds numbers. We will visit the tunnel and look at 
+measurement techniques related to aeroacoutics. We will also look at computational methods and applications for wind turbines and fans.
 
 
 ## Programme
@@ -21,11 +21,11 @@ We will also look at computational methods and applications for wind turbines an
 |  9:30 | Welcome | xxx, Denmark |
 |  9:40 | Introduction to aeroacoutics | Franck Bertagnolio, DTU Wind Energy, Denmark |
 | 10:20 | Coffee break | |
-| 10:40 | Establishment of an aeroacoustics wind tunnel | Christian Bak, DTU Wind Energy, Denmark  |
-| 11:20 | Use of microphone arrays to measure noise | Pieter Sijtsmas, Netherlands |
-| 12:00 | Lunch and lab tour | |
+| 10:40 | Establishment of an aeroacoustic wind tunnel | Christian Bak, DTU Wind Energy, Denmark  |
+| 11:20 | Beamforming for aeroacoustic measurements in wind tunnels | Pieter Sijtsma, PSA3, Netherlands |
+| 12:00 | Lunch and visit to Poul la Cour Tunnel | |
 | 13:30 | Computational methods for aeroacoustics | TBA |
-| 14:10 | Investigation of noise reducing devices on wind turbines | Andreas Fisher, DTU Vind Energy, Denmark |
+| 14:10 | Investigation of noise reducing devices on wind turbines | Andreas Fischer, DTU Vind Energy, Denmark |
 | 14:40 | Coffee break | |
 | 15:10 | Challenges with fan noice | Gabriel Hernandes, Multiwing, Denmark |
 | 15:40 | Aeroacoustic considerations in wind turbine design | TBA  |
