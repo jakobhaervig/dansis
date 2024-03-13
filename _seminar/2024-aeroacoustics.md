@@ -27,6 +27,6 @@ measurement techniques related to aeroacoutics. We will also look at computation
 | 13:30 | Computational methods for aeroacoustics | TBA |
 | 14:10 | Investigation of noise reducing devices on wind turbines | Andreas Fischer, DTU Vind Energy, Denmark |
 | 14:40 | Coffee break | |
-| 15:10 | Challenges with fan noice | Gabriel Hernandes, Multiwing, Denmark |
+| 15:10 | Challenges with fan noise | Gabriel Hernandes, Multiwing, Denmark |
 | 15:40 | Aeroacoustic considerations in wind turbine design | TBA  |
 | 16:10 | Closing remarks | Knud Erik Meyer, DANSIS chairman, Denmark |
