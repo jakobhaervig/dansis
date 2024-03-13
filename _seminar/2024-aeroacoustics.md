@@ -4,7 +4,7 @@ date: 2024-06-19
 image: "images/seminar/2024-aeroacoutics-PLCT.jpg"
 venue: "DTU Risø Campus, Niels Bohr auditorium, building 112, Frederiksborgvej 399,  4000 Roskilde"
 googleurl: "https://maps.app.goo.gl/znc7ssyauJwKPz5o8"
-identifier: "fluid-structure-interaction-billetter-897875"
+identifier: "aeroacoustics-billetter-967445"
 ---
 
 We often want to reduce noise generated from flows. Examples are wind turbines and fans. To reduce noise, the sources of the noise must be identified and the physical mechanisms must be analysed. 
