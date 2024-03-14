@@ -3,7 +3,7 @@ title: "Fluid Structure Interaction"
 date: 2024-03-20
 image: "images/seminar/2024-fluid-structure-interaction.png"
 venue: "Aalborg University, AAU Energy, Pontoppidanstræde 111, Auditorium 1.177, 9220 Aalborg Øst"
-googleurl: "https://maps.app.goo.gl/PgAqtEXPW7yoa9LN6"
+googleurl: "https://maps.app.goo.gl/CB1mZib4bLL63wr58"
 identifier: "fluid-structure-interaction-billetter-897875"
 ---
 
