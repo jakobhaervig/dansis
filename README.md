@@ -24,6 +24,12 @@ Install Jekyll and bundler:
 gem install jekyll bundler
 ```
 
+Install git lfs support:
+```
+sudo apt install git-lfs
+git lfs install
+```
+
 Serve website locally:
 ```
 bundle exec jekyll serve
