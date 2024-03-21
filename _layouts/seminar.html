@@ -10,12 +10,16 @@ layout: default
     <div class="col-12 col-md-8">
       <div class="seminar seminar-single">
         <h1 class="title">{{page.title}}</h1>
+        {% if page.image %}
         <div class="seminar-image">
           <img height="400" alt="{{ page.title }}" class="img-fluid mb-2 intro-image-hide-mobile" src="{{ page.image | relative_url }}" />
         </div>
+        {% endif %}
+        {% if page.venue %}
         <h3 class="content">Venue:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="{{page.googleurl}}" rel="noreferrer">{{page.venue}}</a></h3>
+        {% endif %}
         <h3 class="content">Date:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{ page.date | date: '%d' | plus:'0'}} {{ page.date | date: '%B %Y' }}</h3>
-        {% if page.filelink and today_date > seminar_date%%}
+        {% if page.filelink and today_date > seminar_date %}
         <h3 class="content"><a target="_blank" href="{{page.filelink}}" rel="noreferrer">Browse presentation slides</a></h3>
         {% endif %}
         <div class="content">{{content}}</div>

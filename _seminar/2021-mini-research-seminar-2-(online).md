@@ -1,8 +1,8 @@
 ---
 title: "Mini Research Seminar 2 (Online)"
 date: 2021-02-03
-image: "images/seminar/2021-mini-research-seminar-2-(Online).png"
-venue: " Online"
+image: "images/seminar/2021-mini-research-seminar-2-(online).png"
+#venue: "Online"
 googleurl: ""
 identifier:
 ---

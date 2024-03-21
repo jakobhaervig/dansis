@@ -16,7 +16,7 @@ bodyClass: "page-seminars"
                 {% if seminar.image %}
                 <a href="{{ seminar.url | relative_url }}">
                 <div class="seminar-image">
-                    <img width="200" height="200" alt="{{ seminar.title }}" class="img-fluid mb-2" src="{{ seminar.image | relative_url }}" />
+                    <img width="200" height="200" alt="{{ seminar.title }}" class="img-fluid mb-2" src="{{ seminar.image | relative_url }}">
                 </div>
                 </a>
                 {% endif %}

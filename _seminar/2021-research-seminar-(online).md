@@ -1,9 +1,8 @@
 ---
-title: "Research Seminar (Online)."
+title: "Research Seminar (Online)"
 date: 2021-02-03
-image: ""
-venue: " Online"
-googleurl: ""
+#image: ""
+#googleurl: ""
 identifier:
 ---
 

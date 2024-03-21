@@ -2,7 +2,6 @@
 title: "Cooling of Electronics (Online)"
 date: 2020-10-07
 image: "images/seminar/2020-cooling-of-electronics-(online).png"
-venue: " Online"
 googleurl: ""
 identifier:
 ---

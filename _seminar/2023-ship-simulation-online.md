@@ -2,7 +2,6 @@
 title: "Ship Simulation (online)"
 date: 2023-03-29
 image: "images/seminar/2023-ship-simulation-online.png"
-venue: "Online"
 googleurl: "https://dtudk.zoom.us/j/66333578387"
 identifier:
 ---

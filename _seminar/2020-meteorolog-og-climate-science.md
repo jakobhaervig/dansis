@@ -1,5 +1,5 @@
 ---
-title: "Meteorolog- &-Climate-Science"
+title: "Meteorolog & Climate Science"
 date: 2020-10-02
 image: "images/seminar/2020-meteorolog-og-climate-science.jpg"
 venue: "DTU Lyngby Campus Building 101A, Meeting room 1"
