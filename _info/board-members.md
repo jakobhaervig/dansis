@@ -15,17 +15,16 @@ teaser: List of current DANSIS board members, which represent both academia and 
 - Thomas Filholm, Aerotak
 
 ### Communication and newsletter:
-- Stig Staghøj Knudsen, MEK, Danmarks Tekniske Universitet
+- Stig Staghøj Knudsen, Staghoj
 
 ### Website:
 - Jakob Hærvig, Aalborg University
 
 ### Other members:
 - Anders Christian Olesen, Vestas
-- Bo Gervang, Danmarks Tekniske Universitet
-- Damien Grévain
-- Jakob Hærvig, Aalborg Universitet
+- Damien Grévain, HOFOR
 - Johan Rønby, Roskilde Universitet
-- Kristian Mark Ingvorsen, GEA
+- Rasmus Boye, GEA
+- Mie Bach-Pedersen, Novo Nordisk
 - Nicholas Pedersen, Grundfos
 - Simon Matlok, MAN Energy Solutions
