@@ -90,7 +90,6 @@ bodyClass: "page-home"
 <div class="strip">
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
-      {% assign limit = site.home.limit_info | default: 15 %}
       {% for infopage in site.info limit: limit %}
       <div class="col-12 col-md-4 mb-1">
         <div class="infopage infopage-summary">
