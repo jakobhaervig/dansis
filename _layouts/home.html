@@ -64,7 +64,7 @@ bodyClass: "page-home"
     <h1 class="title">Latest News</h1>
   {% endif %}
   <div class="row">
-    {% for newsupdate in news limit:2 %}
+    {% for newsupdate in news limit:1 %}
     <div class="col-12 col-md-6 mb-2">
         <div class="news news-summary news-summary-large">
             {% if newsupdate.image %}

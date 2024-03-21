@@ -5,7 +5,7 @@ image: "images/seminar/2023-anniversary-symposium.jpg"
 venue: "Nyborg Strand Hotel, Østerøvej 2, 5800 Nyborg"
 googleurl: "https://goo.gl/maps/Yc5r8jNrSDh9NNkF9"
 identifier: "dansis-25-year-anniversary-symposium-billetter-827792"
-filelink: "https://drive.google.com/drive/folders/1HmJtAEq0SlvIxTURfT5BOZRdQfnjopCZ?usp=sharing"
+filefolder: "presentations/2023-anniversary-symposium"
 ---
 
 DANSIS celebrates 25 years of supporting the Danish community on industrial fluid mechanics with seminars on all sorts of topics related to fluid mechanics. The main part of the celebration will be a 24 hours symposium in Nyborg Strand Hotel. The symposium is a follow-up to successful symposia in 2008 and 2016. You will see presentations on hot topics within fluid mechanics and get to discuss our challenges. The symposium will be a unique possibility for meeting old and new friends in the field.

@@ -16,11 +16,11 @@ layout: default
         </div>
         {% endif %}
         {% if page.venue %}
-        <h3 class="content">Venue:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="{{page.googleurl}}" rel="noreferrer">{{page.venue}}</a></h3>
+        <h3 class="content">Venue:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="{{page.googleurl}}" rel="noreferrer">{{page.venue}}</a></h3>
         {% endif %}
-        <h3 class="content">Date:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{ page.date | date: '%d' | plus:'0'}} {{ page.date | date: '%B %Y' }}</h3>
-        {% if page.filelink and today_date > seminar_date %}
-        <h3 class="content"><a target="_blank" href="{{page.filelink}}" rel="noreferrer">Browse presentation slides</a></h3>
+        <h3 class="content">Date:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{ page.date | date: '%d' | plus:'0'}} {{ page.date | date: '%B %Y' }}</h3>
+        {% if page.filefolder %}
+        <h3 class="content"><a href="{{page.filefolder | relative_url}}" target="_blank" rel="noreferrer">Download presentations</a></h3>
         {% endif %}
         <div class="content">{{content}}</div>
         {% if page.identifier and today_date <= seminar_date%}
