@@ -4,6 +4,8 @@ baseurl: '/'
 permalink: pretty
 title: 'DANSIS'
 
+tree_url: 'https://github.com/jakobhaervig/dansis/raw/main/'
+
 future: true
 
 logo:
@@ -24,6 +26,8 @@ collections:
   seminar:
     output: true
   news:
+    output: true
+  presentations:
     output: true
 
 defaults:
@@ -48,6 +52,9 @@ sass:
 
 plugins:
   - jekyll-environment-variables
+
+file_list_generator:
+  base_folder: presentations
 
 exclude:
   - Gemfile

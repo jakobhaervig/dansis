@@ -4,6 +4,7 @@ layout: default
 
 {% assign today_date = 'now' | date: '%Y%m%d' | minus: 0%}
 {% assign seminar_date = page.date | date: '%Y%m%d' | times: 1 %}
+{% assign tree_url = site.tree_url %}
 
 <div class="container pb-6 pt-6 pt-md-10 pb-md-10">
   <div class="row justify-content-start">
@@ -20,7 +21,12 @@ layout: default
         {% endif %}
         <h3 class="content">Date:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{ page.date | date: '%d' | plus:'0'}} {{ page.date | date: '%B %Y' }}</h3>
         {% if page.filefolder %}
-        <h3 class="content"><a href="{{page.filefolder | relative_url}}" target="_blank" rel="noreferrer">Download presentations</a></h3>
+        <h3 class="content">Presentations:</h3>
+          {% for item in site.data.file_list %}
+            {% if item.folder == page.filefolder %}
+            <h4 class="content"><a target="_blank" href="{{ tree_url | append: item.folder | append: '/' | append: item.filename | append: '?download='}}" rel="noreferrer">{{item.filename}}</a></h4>
+            {% endif %}
+          {% endfor %}
         {% endif %}
         <div class="content">{{content}}</div>
         {% if page.identifier and today_date <= seminar_date%}
