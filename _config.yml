@@ -4,7 +4,7 @@ baseurl: '/'
 permalink: pretty
 title: 'DANSIS'
 
-tree_url: 'https://github.com/jakobhaervig/dansis/raw/main/'
+tree_url: 'https://github.com/jakobhaervig/dansis/raw/main'
 
 future: true
 
