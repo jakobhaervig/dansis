@@ -27,8 +27,6 @@ collections:
     output: true
   news:
     output: true
-  presentations:
-    output: true
 
 defaults:
   - scope:
@@ -46,15 +44,16 @@ defaults:
       type: "news"
     values:
       layout: "newsupdate"
+  - scope:
+      path: "presentations/"
+    values:
+      presentation: true
 
 sass:
   style: compressed # possible values: nested expanded compact compressed
 
 plugins:
   - jekyll-environment-variables
-
-file_list_generator:
-  base_folder: presentations
 
 exclude:
   - Gemfile
