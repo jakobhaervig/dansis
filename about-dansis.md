@@ -24,7 +24,7 @@ The Danish Society for Industrial Fluid Dynamics (DANSIS - in Danish "Dansk Sels
 - Consulting Engineers
 - Research and education
 
-As a member of DANSIS, you will regularly be invited for events across the country, often with international guest speakers, focusing on the above-mentioned areas. These events are open to members free of charge. [Read more about DANSIS memberships](/info/memberships/).
+As a member of DANSIS, you will regularly be invited for events across the country, often with international guest speakers, focusing on the above-mentioned areas. These events are open to members free of charge. [Read more about DANSIS memberships](/info/membership/).
 
 DANSIS members primarily include individuals from the Danish industrial sector, but both international and private stakeholders have the opportunity to join DANSIS. Currently DANSIS has 70 members (companies/persons).
 
