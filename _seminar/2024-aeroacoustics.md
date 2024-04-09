@@ -4,7 +4,7 @@ date: 2024-06-19
 image: "images/seminar/2024-aeroacoutics-plct.jpg"
 venue: "DTU Risø Campus, Niels Bohr auditorium, building 112, Frederiksborgvej 399,  4000 Roskilde"
 googleurl: "https://maps.app.goo.gl/znc7ssyauJwKPz5o8"
-identifier: "aeroacoustics-billetter-967445"
+identifier: "967445"
 ---
 
 We often want to reduce noise generated from flows. Examples are wind turbines and fans. To reduce noise, the sources of the noise must be identified and the physical mechanisms must be analysed. One of the main purposes of the Poul la Cour Tunnel at Risø is to facilitate high quality measurements of aeroacoustics on airfoils at high Reynolds numbers. We will visit the wind tunnel and hear about at measurement techniques related to aeroacoutics. We will also get presentations about at computational methods and applications for wind turbines and fans.
