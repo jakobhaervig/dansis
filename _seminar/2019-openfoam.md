@@ -5,6 +5,7 @@ image: "images/seminar/2019-openfoam.png"
 venue: "Aalborg University Copenhagen, A.C. Meyers Vænge 15, 2450 København SV Seminarrum 1.008 (Auditoriet)"
 googleurl: "https://maps.app.goo.gl/myLdqsLaHdxXy7As8"
 identifier:
+filefolder: "presentations/2019-openfoam"
 ---
 
 OpenFOAM is probably the most popular Open-source CFD code. It is used routinely in many Danish companies and universities. OpenFOAM is both free in the sense that there is no license fee and in the sense that you have access to the full source code. However, OpenFOAM is also challenging to use for many reason: there are many solvers developed by different groups available with different levels of maintenance, user interface and help is less smooth than for any commercial code and upgrading to newer versions is not trivial. 

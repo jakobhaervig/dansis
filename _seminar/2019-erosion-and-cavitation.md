@@ -5,6 +5,7 @@ image: "images/seminar/2019-erosion-and-cavitation.png"
 venue: "Grundfos Center, Poul Due Jensens Vej 23, 8850, Bjerringbro"
 googleurl: "https://maps.app.goo.gl/CzCx4C9c42GyBixSA"
 identifier:
+filefolder: "presentations/2019-erosion-and-cavitation"
 ---
 
 Erosion occurs when solid or liquid particles impinge against material surfaces causing wear and geometry changes. Cavitation occurs when rapid changes of pressure in a liquid lead to formation and subsequent implosion of vapour bubbles.

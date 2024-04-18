@@ -5,6 +5,7 @@ image: "images/seminar/2018-the-new-poul-la-cour-wind-tunnnel.jpg"
 venue: "Niels Bohr Auditorium, DTU-Risø, Frederiksborgvej 399, 4000 Roskilde"
 googleurl: "https://maps.app.goo.gl/ftHND4tptJRN6tmo7"
 identifier:
+filefolder: "presentations/2018-the-new-poul-la-cour-wind-tunnel"
 ---
 
 The new New Poul la Cour Tunnel at DTU Risø Campus was inaugurated. The wind tunnel is among the biggest university owned tunnels in the world, and the combination of test possibilities makes the wind tunnel one of a kind, not just nationally but globally.

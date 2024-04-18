@@ -5,6 +5,7 @@ image: "images/seminar/2021-mini-research-seminar-2-(online).png"
 #venue: "Online"
 googleurl: ""
 identifier:
+filefolder: "presentations/2021-mini-research-seminar-2-(online)"
 ---
 
 DANSIS  invite you to our second online mini research seminar with presentations of current research in fluid mechanics. The seminars will be a meeting between researchers at Danish universities and companies dealing with fluid mechanical processes. The presentations will mainly cover current or newly defended PhD projects.

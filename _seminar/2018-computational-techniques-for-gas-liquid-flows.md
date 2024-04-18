@@ -5,6 +5,7 @@ image: "images/seminar/2018-computational-techniques-for-gas-liquid-flows.png"
 venue: "Aalborg University Copenhagen, Frederikskaj 12, 2450, København SV"
 googleurl: "https://maps.app.goo.gl/vw3XL7KCggodGXQBA"
 identifier:
+filefolder: "presentations/2018-computational-techniques-for-gas-liquid-flows"
 ---
 
 DANSIS invites you to a seminar on computational techniques for gas-liquid flows. Many problems of industrial interest are subject to a gas-liquid flow and hence are bound by the complex interactions that occurs between the two fluid phases. Because scales as well as the dominating mechanisms and forces differ from problem to problem, a variety of methods can be applied. 

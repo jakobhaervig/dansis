@@ -5,6 +5,7 @@ image: "images/seminar/2018-high-order-discretisation-methods-in-cfd.png"
 venue: "Inge Lehmanns Gade 10, 8000 Aarhus"
 googleurl: "https://maps.app.goo.gl/ggJaqvDRLuv4go687"
 identifier:
+filefolder: "presentations/2018-high-order-discretisation-methods-in-cfd"
 ---
 
 With the advent of super computers, we require higher and higher accuracy in the solution of many engineering problems. This has historically, in CFD, mainly been achieved by using a denser and denser grid in combination with a low order discretisation methods. However, to gain a much higher accuracy, for the same computer resources, we could increase the discretisation order while maintaining the grid density.

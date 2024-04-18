@@ -5,6 +5,7 @@ image: "images/seminar/2020-meteorolog-og-climate-science.jpg"
 venue: "DTU Lyngby Campus Building 101A, Meeting room 1"
 googleurl: "https://maps.app.goo.gl/tfsFp5wht479pkF67"
 identifier:
+filefolder: "presentations/2020-meteorolog-og-climate-science"
 ---
 
 ### Large Scale Flow

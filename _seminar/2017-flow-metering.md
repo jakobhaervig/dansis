@@ -5,6 +5,7 @@ image: "images/seminar/2017-flow-metering.png"
 venue: "Kamstrup, Industrivej 28, Stilling, Skanderborg"
 googleurl: "https://maps.app.goo.gl/YAba1dB9ALWYqmxC8"
 identifier:
+filefolder: "presentations/2017-flow-metering"
 ---
 
 DANSIS invites you to a seminar on flow meters. We will have presentations from different manufactorers on how a long range of physical principle are applied in commercial flow meters to give reliable measurements in different applications. 

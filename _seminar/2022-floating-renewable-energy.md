@@ -5,6 +5,7 @@ image: "images/seminar/2022-floating-renewable-energy.png"
 venue: "DHI Agern Allé 5 2970 Hørsholm"
 googleurl: "https://maps.app.goo.gl/YsFfYQ63nZjStrKr6"
 identifier:
+filefolder: "presentations/2022-floating-renewable-energy"
 ---
 
 Towing of TetraSpar Demonstrator floating foundation with 3,6 MW wind turbine to test site near Stavanger in Norway in June 2021. Reproduced with permission of Stiesdal Offshore Technologies

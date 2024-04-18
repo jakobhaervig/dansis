@@ -4,6 +4,7 @@ date: 2020-10-07
 image: "images/seminar/2020-cooling-of-electronics-(online).png"
 googleurl: ""
 identifier:
+filefolder: "presentations/2020-cooling-of-electronics-(online)"
 ---
 
 For electrical devices like CPUs, smartphones or power electronics to function reliably it is highly important to avoid overheating. Large temperature deviations from nominal operation not only impact performance, they also constitute a risk from a lifetime perspective.
