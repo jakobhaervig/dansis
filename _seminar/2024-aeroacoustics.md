@@ -23,7 +23,7 @@ We often want to reduce noise generated from flows. Examples are wind turbines a
 | 11:00 | Beamforming for aeroacoustic measurements in wind tunnels | Pieter Sijtsma, PSA3, Netherlands |
 | 11:40 | Lunch and visit to Poul la Cour Tunnel | |
 | 13:30 | Computational methods for aeroacoustics | Roland Ewert, DLR, Germany |
-| 14:10 | Investigation of noise reducing devices on wind turbines | Andreas Fischer, DTU Vind Energy, Denmark |
+| 14:10 | Trailing edge noise measurements on wind turbine blade sections | Andreas Fischer, DTU Wind Energy, Denmark |
 | 14:40 | Coffee break | |
 | 15:10 | Aeroacoustic considerations in wind turbine design | Michael Asheim, SGRE, Denmark  |
 | 15:40 | Challenges with fan noise | Gabriel Hernandes, Multiwing, Denmark |
