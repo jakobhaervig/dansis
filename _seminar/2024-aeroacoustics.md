@@ -12,7 +12,7 @@ We often want to reduce noise generated from flows. Examples are wind turbines a
 
 ## Programme
 
-
+<!-- 
 | Time  |             |             |
 | ----- | ----------- | ----------- |
 |  9:00 | Registration and Coffee | |
@@ -27,4 +27,20 @@ We often want to reduce noise generated from flows. Examples are wind turbines a
 | 14:40 | Coffee break | |
 | 15:10 | Aeroacoustic considerations in wind turbine design | Michael Asheim, SGRE, Denmark  |
 | 15:40 | Challenges with fan noise | Gabriel Hernandes, Multiwing, Denmark |
-| 16:10 | Closing remarks | Knud Erik Meyer, DANSIS chairman, Denmark |
+| 16:10 | Closing remarks | Knud Erik Meyer, DANSIS chairman, Denmark | -->
+
+| Time  |                        |
+| ----- | ---------------------- |
+|  9:00 | **Registration and Coffee** |
+|  9:30 | **Welcome** <br> *DANSIS board member* |
+|  9:40 | **Introduction to aeroacoutics** <br> *Franck Bertagnolio, DTU Wind Energy, Denmark* |
+| 10:10 | **Establishment of an aeroacoustic wind tunnel** <br> *Christian Bak, DTU Wind Energy, Denmark* |
+| 10:40 | **Coffee break** |
+| 11:00 | **Beamforming for aeroacoustic measurements in wind tunnels** <br> *Pieter Sijtsma, PSA3, Netherlands* <br> This presentation discusses the localization and quantification of sound sources using microphone arrays, with an emphasis on the application in different types of wind tunnels. An overview is given of the challenges and the solutions that have been developed.|
+| 11:40 | **Lunch and visit to Poul la Cour Tunnel** |
+| 13:30 | **Computational methods for aeroacoustics** <br> *Roland Ewert, DLR, Germany* |
+| 14:10 | **Trailing edge noise measurements on wind turbine blade sections** <br> *Andreas Fischer, DTU Wind Energy, Denmark* |
+| 14:40 | **Coffee break** |
+| 15:10 | **Aeroacoustic considerations in wind turbine design** <br> *Michael Asheim, SGRE, Denmark* |
+| 15:40 | **Challenges with fan noise** <br> *Gabriel Hernandes, Multiwing, Denmark* |
+| 16:10 | **Closing remarks** <br> *Knud Erik Meyer, DANSIS chairman, Denmark* |
