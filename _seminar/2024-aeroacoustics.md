@@ -41,6 +41,6 @@ We often want to reduce noise generated from flows. Examples are wind turbines a
 | 13:30 | **Computational methods for aeroacoustics** <br> *Roland Ewert, DLR, Germany* |
 | 14:10 | **Trailing edge noise measurements on wind turbine blade sections** <br> *Andreas Fischer, DTU Wind Energy, Denmark* |
 | 14:40 | **Coffee break** |
-| 15:10 | **Aeroacoustic considerations in wind turbine design** <br> *Michael Asheim, SGRE, Denmark* |
+| 15:10 | **Aeroacoustic considerations in wind turbine design** <br> *Michael Asheim, SGRE, Denmark* <br> Aeracoustic considerations are critical for wind turbine generators as noise regulations can severely impact power production if not accounted for in the early stage of design. At Siemens Gamesa, developing and validating new aeroacoustic solutions is a vital part of maximizing the overall performance of SGRE wind turbines. |
 | 15:40 | **Challenges with fan noise** <br> *Gabriel Hernandes, Multiwing, Denmark* |
 | 16:10 | **Closing remarks** <br> *Knud Erik Meyer, DANSIS chairman, Denmark* |
