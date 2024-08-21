@@ -1,11 +1,11 @@
 ---
-title: "PtX"
+title: "Fluid challenges in PtX"
 date: 2024-10-09
-image: "images/seminar/2024-ptx.png"
+image: "images/seminar/2024-fluid-challenges-in-ptx.png"
 venue: "MAN Energy Solutions, Teglholmsgade 41, DK 2450 København SV, Medarbejderhuset/Employee House"
 googleurl: "https://maps.app.goo.gl/Lvr1yYC5powoNpPPA"
 identifier: "1051529"
-#filefolder: "presentations/2024-PtX"
+#filefolder: "presentations/2024-fluid-challenges-in-ptx"
 ---
 
 Power-to-X involves converting surplus renewable energy into storable and transportable forms, such as hydrogen, synthetic fuels, chemicals and heat. As such Power-to-X technologies are at the forefront of sustainable energy transformation and play a critical role in balancing the future energy systems with multiple fluctuating energy sources.
@@ -23,7 +23,7 @@ Note: MAN ES is 5 min. walk from Metro station Enghave Brygge. Car parking requi
 |  9:30 | **Welcome and presentation of seminar** <br> *to be announced* |
 |  9:45 | **Introduction to PtX - with a fluid dynamics perspective** <br> *to be announced* |
 | 10:30 | **Coffee break** |
-| 10:50 | **CFD modeling and  investigation of NH3 synthesis-sorption integration process in multiple porous zones** <br> *Tianbao Gu, Aalborg University* |
+| 10:50 | **CFD modeling and  investigation of NH3 synthesis-sorption integration process in multiple porous zones** <br> *Tianbao Gu, AAU Energy, Aalborg University* <br> Sorption-enhanced ammonia (NH₃) synthesis represents a significant advancement in decentralized NH₃ production powered by renewable energy. Aalborg University is developing a pilot-scale NH₃ synthesis-absorption integrated reactor, utilizing alternating layers of catalyst and absorbent to enhance NH₃ production and streamline its separation under moderate conditions. The CFD model that simulates the complex reactions involved in NH₃ synthesis and absorption across multiple porous zones has been developed and validated, by implementing user-defined scalars and correlative expressions. The model then has been deployed to virtually test and optimize the pilot design configuration, as well as to establish workflow to automatically adjust key design parameters, resulting in the model-based reactor configuration and useful tool for automatic design optimization.|
 | 11:15 | **Alkaline water electrolysis: 3D multiphysics modelling** <br> *Ahsan Iqbal, Green Hydrogen Systems* <br> Alkaline water electrolysis has been used in H2 production for many years. In industries, the efficiency of electrolysis process is described by specific energy requirement i.e. kwh of electrical energy used to produce 1kg of H2. Theoretically at high temperatures efficiency of electrolysis is high. However, as of any other technology, AEW has its limitations e.g. use of diaphragm to separate anode and cathode. Diaphragm can only work under certain temperature. Therefore, properties of diaphragm are one of the factors that limits the operating temperature in AWE |
 | 11:40 | **Lunch break and visit at MAN ES Research Center** |
 | 13:30 | **Accelerating alkaline electrolyzer cell development with multiphysics simulations** <br> *Jonathan Dallaire, Resolvent* |
@@ -32,7 +32,8 @@ Note: MAN ES is 5 min. walk from Metro station Enghave Brygge. Car parking requi
 | 14:40 | **Coffee break** |
 | 15:00 | **CFD, a tool for understanding of flow in electrolyzers** <br> *Pourya Foroogh, Aarhus University* <br> Alkaline water electrolyzers represent a rich physical problem where multiphase fluid flow, mass transfer, and electrochemical reactions are among the contributing factors. CFD is a tool to shed light on the complex physics of the problem and optimize electrolyzer cells. The present talk introduces an on-going simulation campaign at Aarhus University aiming to understand the two-phase flow in alkaline electroyzers with porous electrodes at both cell and micro (pore and bubble) scales and to improve the performance. |
 | 15:25 | **CFD, combustion of e-fuels in two-stroke marine engines** <br> *Kar Pang, MAN Energy Solutions* |
-| 15:50 | **Closing remarks** <br> *Knud Erik Meyer, DANSIS chairman, Denmark* |
+| 15:50 | **Fluid challenges in the Stiesdal SkyClean pyrolysis concept** <br> *Giacomo Butera, Stiesdal SkyClean* |
+| 16:10 | **Closing remarks** <br> *Knud Erik Meyer, DANSIS chairman, Denmark* | 
 
 The event is supported by the Danish Ministry of Higher Education and Science/Uddannelses- og Forskningsministeriet via Energy Cluster Denmark.
 
