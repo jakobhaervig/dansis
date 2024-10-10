@@ -27,6 +27,8 @@ Send your thesis by e-mail to dansis@dansis.dk as a PDF file or a link
 
 ## Previous winners
 
+**2024:**  Christian Kringel and Victor Hvass Mølbak "Numerical Modelling of Air-Induced Drag Reduction for Marine Vessels with a Multifield Two-Fluid Model"
+
 **2023:**  Nicolai Arent Quist and Rasmus Haurum Johansen "Validation of a Full Scale CFD Model of a Self-Propelled Ship with Measured Hull Roughness and Welded Seams"
 
 **2022:**  Rasmus Byrdal Kjær "Experimental and CFD Analysis of Roll Damping of Installation Vessels"
