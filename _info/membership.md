@@ -18,23 +18,22 @@ A company membership allows free admission to all events for you and your collea
 [Contact DANSIS to become a company member](/contact/)
 
 ## Student membership
-Student memberships are free and do not require any subscription.
+Student memberships are free and do not require any subscription. Please use your student e-mail when registrering for seminars.
 
 # Current DANSIS members
-- Aalborg Energie Technik A/S
 - Aalborg University (AAU)
 - Aarhus University (AU)
 - Aerotak
-- Asetek A/S
+- Alfa Laval
 - Babcock & Wilcox Vølund A/S
+- Burmeister & Wain Energy
 - COMSOL A/S
 - Danfoss A/S
-- Dansk Gasteknik Center A/S
 - Dantec Dynamics A/S
+- DHI A/S
 - Dinex A/S
 - EDR & Medeso ApS 
 - EMD International A/S
-- Fiberline Composites A/S
 - FLSmidth A/S
 - FORCE Technology
 - Foss A/S
@@ -42,20 +41,27 @@ Student memberships are free and do not require any subscription.
 - GEA Process Engineering A/S
 - Gridcore AB
 - Grundfos Holding A/S
-- Haldor Topsøe A/S
+- HOFOR
 - Kamstrup A/S
 - Kirkholm Maskiningeniører A/S
-- LIC Engineering A/S
+- Knud E. Hansen
+- LEGO system A/S
 - Lunds University
+- MAN Energy Solutions
 - Multi-Wing International A/S
+- Nordcad Systems A/S
+- Novo Nordisk A/S
 - OSK-ShipTech A/S
+- Power Curve
 - Rambøll Danmark A/S
+- Resolvent
 - Rockwool International A/S
+- Roskilde University
 - Siemens Industry Software AB
 - SimEvolution A/S
-- Terma A/S
+- Stiesdal A/S
 - Technical University of Denmark (DTU)
+- Terma A/S
 - University of Southern Denmark (SDU)
 - Vestas Aircoil A/S
 - Vestas Wind Systems A/S
-- Vysus Group
