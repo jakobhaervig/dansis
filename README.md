@@ -17,8 +17,8 @@ This repo hosts the website of DANSIS live at [https://dansis.dk](https://dansis
 
 ### Step 4: Setting up and installing prerequisites
 - Open your git management software and clone https://github.com/jakobhaervig/ces.
-- Open VS Code and open the *ces* folder you just cloned.
-- Open a WSL terminal.
+- Open VS Code and open the *DANSIS* folder you just cloned.
+- Open a Ubuntu terminal.
 
 ### Step 5:
 Copy/paste the following commands one-by-one into the WSL terminal to install prerequisite:
