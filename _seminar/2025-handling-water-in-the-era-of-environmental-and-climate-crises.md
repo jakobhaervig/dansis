@@ -5,7 +5,7 @@ image: "images/seminar/2025-handling-water-in-the-era-of-environmental-and-clima
 venue: "Roskilde University, Universitetsvej 1, 4000 Roskilde, Building 25, Room 25.2-035"
 googleurl: "https://maps.app.goo.gl/nuQFVqyxMbHK1pH89"
 identifier: "handling-water-in-the-era-of-environmental-and-climate-crises-billetter-1145861"
-filefolder: "presentations/2024-fluid-structure-interaction"
+filefolder: "presentations/2025-handling-water-in-the-era-of-environmental-and-climate-crises"
 ---
 
 Water is rising, both literally and on the political agenda: On a heating planet, we expect more frequent and violent cloud bursts and more extreme storm surges. How do we most efficiently protect people and property from these threats?
