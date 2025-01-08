@@ -4,7 +4,7 @@ date: 2025-04-19
 image: "images/seminar/2025-handling-water-in-the-era-of-environmental-and-climate-crises.jpg"
 venue: "Roskilde University, Universitetsvej 1, 4000 Roskilde, Building 25, Room 25.2-035"
 googleurl: "https://maps.app.goo.gl/nuQFVqyxMbHK1pH89"
-identifier: "handling-water-in-the-era-of-environmental-and-climate-crises-billetter-1145861"
+identifier: "1145861"
 filefolder: "presentations/2025-handling-water-in-the-era-of-environmental-and-climate-crises"
 ---
 
