@@ -1,19 +1,22 @@
 ---
 title: "Handling water in the era of environmental and climate crises"
-date: 2025-04-19
+date: 2025-03-19
 image: "images/seminar/2025-handling-water-in-the-era-of-environmental-and-climate-crises.jpg"
 venue: "Roskilde University, Universitetsvej 1, 4000 Roskilde, Building 25, Room 25.2-035"
 googleurl: "https://maps.app.goo.gl/nuQFVqyxMbHK1pH89"
-identifier: "1145861"
-filefolder: "presentations/2025-handling-water-in-the-era-of-environmental-and-climate-crises"
+identifier: "handling-water-in-the-era-of-environmental-and-climate-crises-billetter-1145861"
+filefolder: "presentations/2024-fluid-structure-interaction"
 ---
+
+## Appetizer
 
 Water is rising, both literally and on the political agenda: On a heating planet, we expect more frequent and violent cloud bursts and more extreme storm surges. How do we most efficiently protect people and property from these threats?
 
 At the same time it is apparent that our past and present approach to the ecosystems in the oceans and fjords is far from sustainable. Also our vital ground water is challenged by present and past pollution.
 
 Knowledge, understanding and modelling of water dynamics are key to reliable solutions to all these challenges. In this DANSIS seminar we dive into this aspect of handling water in the era of environmental and climate crises.
-
+<br>
+<br>
 ## Programme
 
 | Time  |                        |
@@ -32,3 +35,13 @@ Knowledge, understanding and modelling of water dynamics are key to reliable sol
 | 14:20 | **Despite conservative DK-pesticide-regulation, pesticide residues are detected in groundwater – Why?** <br> *Annette E. Rosenbom, Rambøll* <br> EU-regulatory guidelines and models, applied very conservatively in DK, have been set up to predict pesticide related leaching risk from agricultural soils to groundwater. They incorporate key fate processes like sorption and degradation and flow through the variably saturated soil without considering the variation in space and time of fate processes, nor a realistic hydrogeological setting. Could this explain the lack of ability to predict the leaching risk of pesticide residues as revealed via field-scale monitoring results? |
 | 14:50 | **Biogeochemical modelling of Danish marine waters** <br> *Anders Chr. Erichsen, DHI* <br> As an important part of setting targets for nutrient reductions to ensure good ecological status, cf. Water Framework Directive, a number of mechanistic hydrodynamic and biogeochemical models have been developed and applied. These models allow for, among other things, the assessment of impacts when neighboring countries reduce their own nutrient input to waters shared with Denmark, and this has led to discussion between stakeholders in Denmark – and an important part of the recent negotiated tri party agreement. This presentation will describe the model developments, application and showcase the essentials behind the Danish River Basin Management Plans 2021-27.|
 | 15:20 | **Closing remarks** <br> *Johan Rønby, RUC & STROMNING* | 
+<br>
+<br>
+## Directions and parking
+
+Please find parking info and directions to RUC [here](https://ruc.dk/en/directions-roskilde-university)
+
+The Auditorum can be seen on the detailed campus map [here](https://use.mazemap.com/#v=1&config=ruc&campusid=209&zlevel=1&center=12.133228,55.650753&zoom=15.7&sharepoitype=poi&sharepoi=536124).
+
+Guest parking permits can either be obtained from the service desk in [building 03}(https://use.mazemap.com/#v=1&config=ruc&campusid=209&zlevel=1&center=12.140754,55.653428&zoom=16.7&sharepoitype=poi&sharepoi=706962) or you can download and print it yourself from [here](/images/seminar/2025-handling-water-in-the-era-of-environmental-and-climate-crises-parking.pdf).<br>
+The permit must be placed in your windscreen.
