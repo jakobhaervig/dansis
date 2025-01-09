@@ -4,8 +4,8 @@ date: 2025-03-19
 image: "images/seminar/2025-handling-water-in-the-era-of-environmental-and-climate-crises.jpg"
 venue: "Roskilde University, Universitetsvej 1, 4000 Roskilde, Building 25, Room 25.2-035"
 googleurl: "https://maps.app.goo.gl/nuQFVqyxMbHK1pH89"
-identifier: "handling-water-in-the-era-of-environmental-and-climate-crises-billetter-1145861"
-filefolder: "presentations/2024-fluid-structure-interaction"
+identifier: "1145861"
+filefolder: "presentations/2025-handling-water-in-the-era-of-environmental-and-climate-crises"
 ---
 
 ## Appetizer
@@ -43,5 +43,5 @@ Please find parking info and directions to RUC [here](https://ruc.dk/en/directio
 
 The Auditorum can be seen on the detailed campus map [here](https://use.mazemap.com/#v=1&config=ruc&campusid=209&zlevel=1&center=12.133228,55.650753&zoom=15.7&sharepoitype=poi&sharepoi=536124).
 
-Guest parking permits can either be obtained from the service desk in [building 03}(https://use.mazemap.com/#v=1&config=ruc&campusid=209&zlevel=1&center=12.140754,55.653428&zoom=16.7&sharepoitype=poi&sharepoi=706962) or you can download and print it yourself from [here](/images/seminar/2025-handling-water-in-the-era-of-environmental-and-climate-crises-parking.pdf).<br>
+Guest parking permits can either be obtained from the service desk in [building 03](https://use.mazemap.com/#v=1&config=ruc&campusid=209&zlevel=1&center=12.140754,55.653428&zoom=16.7&sharepoitype=poi&sharepoi=706962) or you can download and print it yourself from [here](/images/seminar/2025-handling-water-in-the-era-of-environmental-and-climate-crises-parking.pdf).<br>
 The permit must be placed in your windscreen.
