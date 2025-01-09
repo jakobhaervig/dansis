@@ -39,5 +39,6 @@ Please find parking info and directions to RUC [here](https://ruc.dk/en/directio
 
 The Auditorum can be seen on the detailed campus map [here](https://use.mazemap.com/#v=1&config=ruc&campusid=209&zlevel=1&center=12.133228,55.650753&zoom=15.7&sharepoitype=poi&sharepoi=536124).
 
-Guest parking permits can either be obtained from the service desk in [building 03](https://use.mazemap.com/#v=1&config=ruc&campusid=209&zlevel=1&center=12.140754,55.653428&zoom=16.7&sharepoitype=poi&sharepoi=706962) or you can download and print it yourself from [here](/images/seminar/2025-handling-water-in-the-era-of-environmental-and-climate-crises-parking.pdf).<br>
+Guest parking permits can either be obtained from the service desk in [building 03](https://use.mazemap.com/#v=1&config=ruc&campusid=209&zlevel=1&center=12.140754,55.653428&zoom=16.7&sharepoitype=poi&sharepoi=706962) or you can download and print it yourself from [here](https://github.com/jakobhaervig/dansis/raw/refs/heads/main/images/seminar/2025-handling-water-in-the-era-of-environmental-and-climate-crises-parking.pdf?download=).
+
 The permit must be placed in your windscreen.
