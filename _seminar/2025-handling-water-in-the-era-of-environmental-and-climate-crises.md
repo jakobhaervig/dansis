@@ -8,15 +8,12 @@ identifier: "1145861"
 filefolder: "presentations/2025-handling-water-in-the-era-of-environmental-and-climate-crises"
 ---
 
-## Appetizer
-
 Water is rising, both literally and on the political agenda: On a heating planet, we expect more frequent and violent cloud bursts and more extreme storm surges. How do we most efficiently protect people and property from these threats?
 
 At the same time it is apparent that our past and present approach to the ecosystems in the oceans and fjords is far from sustainable. Also our vital ground water is challenged by present and past pollution.
 
 Knowledge, understanding and modelling of water dynamics are key to reliable solutions to all these challenges. In this DANSIS seminar we dive into this aspect of handling water in the era of environmental and climate crises.
-<br>
-<br>
+
 ## Programme
 
 | Time  |                        |
