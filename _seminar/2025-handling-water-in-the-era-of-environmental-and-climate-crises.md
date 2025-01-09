@@ -22,7 +22,7 @@ Knowledge, understanding and modelling of water dynamics are key to reliable sol
 | Time  |                        |
 | ----- | ---------------------- |
 |  09:00  | **Registration and Coffee** |
-|  09:30  | **Welcome and presentation of seminar** <br> *Johan Rønby, RUC & STROMNING* |  |
+|  09:30  | **Welcome and presentation of seminar** <br> *Johan Rønby, RUC & STROMNING* |
 |  09:45  | **Flooding, hydrology and flood forecasting** <br> *Michael Butts, DMI* <br> In 2022 DMI was appointed as the national authority for flood early warning and hydrological forecasting for Denmark. The “Flooding and Hydrology” unit was established to develop new flood warning services and forecasting products, initially focused on our local and national emergency services. DMI is developing a national flood and hydrological and warning system, combining hydrological, river, ocean and weather models and real-time data to provide timely, accurate and robust flood warnings. The aim is to go beyond our earlier warnings for extreme rainfall (e.g. cloudbursts) and storm surges to provide information of the impacts of extreme weather, i.e. where and when flooding may occur from the sea, from cloudbursts and streams. |
 | 10:15 | **Monitoring the water cycles: Sensors and data-analysis** <br> *Malte Skovby Ahm, Dryp* <br> A variety of sensors and computing techniques are taken in use to monitor risks related to flooding and extreme water cycles. Malte will share insights into weather radar, IOT sensors in combination with CFD, Machine Learning, Hydraulic software sensors in sewage technique and distributed monitoring of the water cycle. |
 | 10:45 | **Coffee break** |
