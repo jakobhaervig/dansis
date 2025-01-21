@@ -14,6 +14,8 @@ At the same time it is apparent that our past and present approach to the ecosys
 
 Knowledge, understanding and modelling of water dynamics are key to reliable solutions to all these challenges. In this DANSIS seminar we dive into this aspect of handling water in the era of environmental and climate crises.
 
+Image attribution: Scott Pena from Galveston TX, U.S.A.
+
 ## Programme
 
 | Time  |                        |
