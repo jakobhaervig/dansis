@@ -33,7 +33,7 @@ Image attribution: Scott Pena from Galveston TX, U.S.A.
 | 14:00 | **Coffee break** |
 | 14:20 | **Despite conservative DK-pesticide-regulation, pesticide residues are detected in groundwater – Why?** <br> *Annette E. Rosenbom, Rambøll* <br> EU-regulatory guidelines and models, applied very conservatively in DK, have been set up to predict pesticide related leaching risk from agricultural soils to groundwater. They incorporate key fate processes like sorption and degradation and flow through the variably saturated soil without considering the variation in space and time of fate processes, nor a realistic hydrogeological setting. Could this explain the lack of ability to predict the leaching risk of pesticide residues as revealed via field-scale monitoring results? |
 | 14:50 | **Biogeochemical modelling of Danish marine waters** <br> *Anders Chr. Erichsen, DHI* <br> As an important part of setting targets for nutrient reductions to ensure good ecological status, cf. Water Framework Directive, a number of mechanistic hydrodynamic and biogeochemical models have been developed and applied. These models allow for, among other things, the assessment of impacts when neighboring countries reduce their own nutrient input to waters shared with Denmark, and this has led to discussion between stakeholders in Denmark – and an important part of the recent negotiated tri party agreement. This presentation will describe the model developments, application and showcase the essentials behind the Danish River Basin Management Plans 2021-27. |
-| 15:20 | **Closing remarks** <br> *Johan Rønby, RUC & STROMNING* |
+| 15:20 | **Closing remarks** <br> *Knud Erik Meyer, DANSIS chairman* |
 
 ## Directions and parking
 
