@@ -3,7 +3,8 @@ layout: default
 bodyClass: "page-home"
 ---
 
-{% assign upcoming_seminars = site.seminar | where_exp: "sem", "sem.date >= site.time" %}
+{% assign today_date = 'now' | date: '%Y%m%d' | times: 1 %}
+{% assign seminars = site.seminar %}
 {% assign news = site.news | sort: 'date' | reverse %}
 
 <div class="intro">
@@ -24,34 +25,67 @@ bodyClass: "page-home"
 
 
 <div class="container pt-6 pb-6">
-  {% if upcoming_seminars.size != 0%}
-    <h1 class="title">Upcoming seminars</h1>
-  {% endif %}
-  <div class="row">
-    {% for upcoming_seminar in upcoming_seminars %}
-    <div class="col-12 col-md-6 mb-2">
+  {% for seminar in seminars %}
+  {% assign seminar_date = seminar.date | date: '%Y%m%d' | times: 1 %}
+    {% if today_date == seminar_date %}
+    <h1 class="title">Today's seminar</h1>
+    <div class="row">
+      <div class="col-12 col-md-6 mb-2">
         <div class="seminar seminar-summary seminar-summary-large">
-            {% if upcoming_seminar.image %}
-            <a href="{{ upcoming_seminar.url | relative_url }}">
+            {% if seminar.image %}
+            <a href="{{ seminar.url | relative_url }}">
             <div class="seminar-image">
-                <img width="200" height="200" alt="{{ upcoming_seminar.title }}" class="img-fluid mb-2" src="{{ upcoming_seminar.image | relative_url }}" />
+                <img width="200" height="200" alt="{{ seminar.title }}" class="img-fluid mb-2" src="{{ seminar.image | relative_url }}" />
             </div>
             </a>
             {% endif %}
-            <a href="{{ upcoming_seminar.url | relative_url }}">
+            <a href="{{ seminar.url | relative_url }}">
               <div class="seminar-meta">
-                  <h2 class="seminar-name">{{ upcoming_seminar.title }}</h2>
+                  <h2 class="seminar-name">{{ seminar.title }}</h2>
                   <p class="seminar-description">
-                    {{ upcoming_seminar.date | date: '%d' | plus:'0'}} {{ upcoming_seminar.date | date: '%B %Y' }}
+                    {{ seminar.date | date: '%d' | plus:'0'}} {{ seminar.date | date: '%B %Y' }}
                   </p>
-                  {% if upcoming_seminar.venue %}
-                  {{ upcoming_seminar.venue }}
+                  {% if seminar.venue %}
+                  {{ seminar.venue }}
                   {% endif %}
               </div>
             </a>
-            <div class="seminar-content">{{ upcoming_seminar.content | truncate: 0 }}</div>
+            <div class="seminar-content">{{ seminar.content | truncate: 0 }}</div>
         </div>
+      </div>
     </div>
+    {% endif %}
+  {% endfor %}
+
+  <h1 class="title">Upcoming seminars</h1>
+  <div class="row">
+    {% for seminar in seminars %}
+    {% assign seminar_date = seminar.date | date: '%Y%m%d' | times: 1 %}
+      {% if today_date < seminar_date %}
+      <div class="col-12 col-md-6 mb-2">
+          <div class="seminar seminar-summary seminar-summary-large">
+              {% if seminar.image %}
+              <a href="{{ seminar.url | relative_url }}">
+              <div class="seminar-image">
+                  <img width="200" height="200" alt="{{ seminar.title }}" class="img-fluid mb-2" src="{{ seminar.image | relative_url }}" />
+              </div>
+              </a>
+              {% endif %}
+              <a href="{{ seminar.url | relative_url }}">
+                <div class="seminar-meta">
+                    <h2 class="seminar-name">{{ seminar.title }}</h2>
+                    <p class="seminar-description">
+                      {{ seminar.date | date: '%d' | plus:'0'}} {{ seminar.date | date: '%B %Y' }}
+                    </p>
+                    {% if seminar.venue %}
+                    {{ seminar.venue }}
+                    {% endif %}
+                </div>
+              </a>
+              <div class="seminar-content">{{ seminar.content | truncate: 0 }}</div>
+          </div>
+      </div>
+      {% endif %}
     {% endfor %}
   </div>
   <br>
