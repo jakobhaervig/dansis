@@ -25,43 +25,11 @@ bodyClass: "page-home"
 
 
 <div class="container pt-6 pb-6">
-  {% for seminar in seminars %}
-  {% assign seminar_date = seminar.date | date: '%Y%m%d' | times: 1 %}
-    {% if today_date == seminar_date %}
-    <h1 class="title">Today's seminar</h1>
-    <div class="row">
-      <div class="col-12 col-md-6 mb-2">
-        <div class="seminar seminar-summary seminar-summary-large">
-            {% if seminar.image %}
-            <a href="{{ seminar.url | relative_url }}">
-            <div class="seminar-image">
-                <img width="200" height="200" alt="{{ seminar.title }}" class="img-fluid mb-2" src="{{ seminar.image | relative_url }}" />
-            </div>
-            </a>
-            {% endif %}
-            <a href="{{ seminar.url | relative_url }}">
-              <div class="seminar-meta">
-                  <h2 class="seminar-name">{{ seminar.title }}</h2>
-                  <p class="seminar-description">
-                    {{ seminar.date | date: '%d' | plus:'0'}} {{ seminar.date | date: '%B %Y' }}
-                  </p>
-                  {% if seminar.venue %}
-                  {{ seminar.venue }}
-                  {% endif %}
-              </div>
-            </a>
-            <div class="seminar-content">{{ seminar.content | truncate: 0 }}</div>
-        </div>
-      </div>
-    </div>
-    {% endif %}
-  {% endfor %}
-
   <h1 class="title">Upcoming seminars</h1>
   <div class="row">
     {% for seminar in seminars %}
     {% assign seminar_date = seminar.date | date: '%Y%m%d' | times: 1 %}
-      {% if today_date < seminar_date %}
+      {% if today_date <= seminar_date %}
       <div class="col-12 col-md-6 mb-2">
           <div class="seminar seminar-summary seminar-summary-large">
               {% if seminar.image %}
