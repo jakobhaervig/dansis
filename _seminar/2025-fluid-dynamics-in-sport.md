@@ -1,7 +1,7 @@
 ---
 title: "Fluid Dynamics in Sport"
 date: 2025-05-14
-image: "images/seminar/2025-fluid-dynamics-in-sports-seminar.jpg"
+image: "images/seminar/2025-fluid-dynamics-in-sport.jpg"
 venue: "Aarhus International Sailing Center, Esther Aggebos Gade 80 A,8000 Aarhus C"
 googleurl: "https://maps.app.goo.gl/GRxR7RRZSyhgGikZ7"
 identifier: "1190959"
@@ -9,7 +9,15 @@ identifier: "1190959"
 
 Fluid dynamics is everywhere, and sport is no exception. Athletes and the teams surrounding them strive to improve performance and one of the growing research fields within sports science is fluid dynamics. 
 DANSIS has gather experts within fluid dynamics in sports across multiple disciplines and countries in this seminar. 
-There will be presentation from the world of cycling, formula 1 racing, paragliding and Sailing.
+There will be presentation from the world of cycling, formula 1 racing, paragliding and sailing. 
+
+In addition to the presentations there will be some equipment  from the different sports to investigate. 
+The sailing center is full of sailing dinghies and equipment. There will also be equiptment from paragliding and the worlds fastest track bike.
+
+After the seminar there will be a chance for DANSIS members to go sailboat racing on bay outside the sailing center. Experienced skippers will guide you during sailing and equipment are supplied  by DK sejlsport.
+DK Sejlsport offered us a great price and DANSIS also contributes financially to bring the price down to 250 kr per participant.
+If you are not already a member of DANSIS this is an excellent opportunity to become a member. You can sign up for membership here "https://dansis.dk/info/membership/"
+The deadline for signing up for sailing is April 14 and there are only 50 spots available, so make sure to sign up ASAP. You sign up for sailing as part of the seminar registration.
 
 ## Programme
 
@@ -26,8 +34,8 @@ There will be presentation from the world of cycling, formula 1 racing, paraglid
 | 13:00 | Where the textbooks never venture - fluid dynamics in paraglider flight, with a focus on extreme flight configurations | Mads Syndergaard, DK |
 | 13:30 | TBA | TBA |
 | 14:00 | Coffee break | |
-| 14:30 | Fluid dynamics in Americas cup foiling yachts | TBA | 
-| 15:00 | Fluid dynamics in Olympic sailing | Laura Marimon Giovannetti, Rise, Sweden |
+| 14:30 | Fluid dynamics in Olympic sailing | Laura Marimon Giovannetti, Rise, Sweden | 
+| 15:00 | Fluid dynamics in Americas cup foiling yachts | TBA |
 | 15:30 | Seminar part Closing remarks | Knud Erik Meyer , DTU Construct, Denmark |
 | 16:00 | Sailing | DKSejlsport  |
 | 18:00 | Goodbye | Stig Staghøj Knudsen, Staghoj , Denmark |
