@@ -1,7 +1,7 @@
 ---
 title: "Fluid Dynamics in Sports"
 date: 2025-05-14
-image: "images/seminar/2025-fluid-dynamics-in-sports.jpg"
+image: "images/seminar/2025-fluid-dynamics-in-sport.jpg"
 venue: "Aarhus International Sailing Center, Esther Aggebos Gade 80 A,8000 Aarhus C"
 googleurl: "https://maps.app.goo.gl/GRxR7RRZSyhgGikZ7"
 identifier: "1190959"
