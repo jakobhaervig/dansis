@@ -24,7 +24,7 @@ The deadline for signing up for sailing is April 23 and there are only 50 spots 
 
 | Time  |             |             |
 | ----- | ----------- | ----------- |
-|  9:00 | Registration and Cofee |             |
+|  9:00 | Registration and Coffee |             |
 |  9:30 | Welcome | Stig Staghøj Knudsen, Staghoj , Denmark |
 |  9:45 | Fluid dynamics in sports | Andreas Top-Adler, Team Danmark, Denmark |
 | 10:30 | Coffee break | |
@@ -35,7 +35,7 @@ The deadline for signing up for sailing is April 23 and there are only 50 spots 
 | 13:30 | Predicting Sailing Yacht Performance in Waves using a CFD-VPP | Adam Persson, Rise, Sweden |
 | 14:00 | Coffee break | |
 | 14:30 | Fluid dynamics in Olympic sailing | Laura Marimon Giovannetti, Rise, Sweden | 
-| 15:00 | Fluid dynamics in Americas cup foiling yachts | Thomas Fanthorpe, INEOS and Mercedes F1 |
+| 15:00 | Transforming Sailing Yacht Performance with America's Cup-Level CFD | Aji Purwanto, CADENCE, Belgium |
 | 15:30 | Seminar part Closing remarks | Knud Erik Meyer , DTU Construct, Denmark |
 | 16:00 | Sailing | DKSejlsport  |
 | 18:00 | Goodbye | Stig Staghøj Knudsen, Staghoj , Denmark |
