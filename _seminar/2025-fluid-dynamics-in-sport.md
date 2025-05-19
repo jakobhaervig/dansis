@@ -21,7 +21,6 @@ The deadline for signing up for sailing is April 23 and there are only 50 spots 
 
 ## Programme
 
-
 | Time  |             |             |
 | ----- | ----------- | ----------- |
 |  9:00 | Registration and Coffee |             |
