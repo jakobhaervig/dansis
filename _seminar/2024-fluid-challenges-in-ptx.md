@@ -5,7 +5,7 @@ image: "images/seminar/2024-fluid-challenges-in-ptx.png"
 venue: "MAN Energy Solutions, Teglholmsgade 41, DK 2450 København SV, Medarbejderhuset/Employee House"
 googleurl: "https://maps.app.goo.gl/Lvr1yYC5powoNpPPA"
 identifier: "1051529"
-#filefolder: "presentations/2024-fluid-challenges-in-ptx"
+filefolder: "presentations/2024-fluid-challenges-in-ptx"
 ---
 
 Power-to-X involves converting surplus renewable energy into storable and transportable forms, such as hydrogen, synthetic fuels, chemicals and heat. As such Power-to-X technologies are at the forefront of sustainable energy transformation and play a critical role in balancing the future energy systems with multiple fluctuating energy sources.
