@@ -23,24 +23,22 @@ bodyClass: "page-home"
   </div>
 </div>
 
+{%- assign upcoming_seminars = seminars | where_exp: 'seminar', 'seminar.date >= site.time' -%}
 
+{% if upcoming_seminars.size != 0 %}
 <div class="container pt-6 pb-6">
   <h1 class="title">Upcoming seminars</h1>
   <div class="row">
-    {% for seminar in seminars %}
-    {% assign seminar_date = seminar.date | date: '%Y%m%d' | times: 1 %}
-      {% if today_date <= seminar_date %}
+    {% for seminar in upcoming_seminars %}
       <div class="col-12 col-md-6 mb-2">
           <div class="seminar seminar-summary seminar-summary-large">
-              {% if seminar.image %}
-              <a href="{{ seminar.url | relative_url }}">
-              <div class="seminar-image">
-                  <img width="200" height="200" alt="{{ seminar.title }}" class="img-fluid mb-2" src="{{ seminar.image | relative_url }}" />
-              </div>
-              </a>
-              {% endif %}
               <a href="{{ seminar.url | relative_url }}">
                 <div class="seminar-meta">
+                    {% if seminar.image %}
+                    <div class="seminar-image">
+                      <img width="200" height="200" alt="{{ seminar.title }}" class="img-fluid mb-2 intro-image-hide-mobile" src="{{ seminar.image | relative_url }}" />
+                    </div>
+                    {% endif %}
                     <h2 class="seminar-name">{{ seminar.title }}</h2>
                     <p class="seminar-description">
                       {{ seminar.date | date: '%d' | plus:'0'}} {{ seminar.date | date: '%B %Y' }}
@@ -53,10 +51,12 @@ bodyClass: "page-home"
               <div class="seminar-content">{{ seminar.content | truncate: 0 }}</div>
           </div>
       </div>
-      {% endif %}
     {% endfor %}
   </div>
-  <br>
+</div>
+{% endif %}
+
+<div class="container pt-6 pb-6">
   {% if news.size != 0%}
     <h1 class="title">Latest News</h1>
   {% endif %}

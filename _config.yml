@@ -1,5 +1,6 @@
 url: 'https://dansis.dk'
 baseurl: '/'
+timezone: Europe/Copenhagen
 
 permalink: pretty
 title: 'DANSIS'
