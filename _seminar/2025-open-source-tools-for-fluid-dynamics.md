@@ -16,15 +16,15 @@ Open source software tools are widely used both in academia and industry as alte
 | ----- | ---------------------- |
 | 09:00 | **Registration and Coffee** |
 | 09:30 | **Welcome and presentation of seminar** <br> *Johan Rønby, RUC/STROMNING* |
-| 09:45 | **Title to be announced** <br> *Andrew Heather, OpenCFD* <br> tba. |
-| 10:30 | **Title to be announced** <br> *Erik Lillberg, Vattenfall  <br> tba.|
+| 09:45 | **Title to be announced** <br> *TBA* <br> |
+| 10:30 | **Title to be announced** <br> *Erik Lillberg, Vattenfall*  <br> |
 | 11:00 | **Coffee break** |
-| 11:15 | **Title to be announced** <br> *Mathieu Westphal, Kitware* <br> tba. |
-| 11:45 | **Title to be announced** <br> *Federico Piscaglia, Politecnico di Milano* <br> tba. |
+| 11:15 | **Title to be announced** <br> *Mathieu Westphal, Kitware* <br> |
+| 11:45 | **Title to be announced** <br> *Federico Piscaglia, Politecnico di Milano* <br>  |
 | 12:15 | **Lunch break** |
-| 13:15 | **Title to be announced** <br> *Henning Scheufler, NeoFoam project member* <br> tba. |
-| 13:45 | **Title to be announced** <br> *Lilla Koloszar, von Karman Institute* <br> tba. |
+| 13:15 | **Title to be announced** <br> *Henning Scheufler, NeoFoam project member* <br> |
+| 13:45 | **Simulation of liquid metal flows - the role of open-source tools from physical understanding to industrial applications** <br> *Lilla Koloszar, von Karman Institute* <br> |
 | 14:15 | **Coffee break** |
-| 14:30 | **Title to be announced** <br> *Simon Eberhard, DTU* <br> tba. |
-| 15:00 | **Title to be announced** <br> *Johan Rønby, RUC/STROMNING* <br> tba. |
+| 14:30 | **Title to be announced** <br> *Simon Eberhard, DTU* <br> |
+| 15:00 | **Title to be announced** <br> *Johan Rønby, RUC/STROMNING* <br> |
 | 15:30 | **Closing remarks** <br> *Knud Erik Meyer, DANSIS chairman* |
