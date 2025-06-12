@@ -19,7 +19,7 @@ Open source software tools are widely used both in academia and industry as alte
 | 09:45 | **Title to be announced** <br> *TBA* <br> |
 | 10:30 | **Title to be announced** <br> *Erik Lillberg, Vattenfall*  <br> |
 | 11:00 | **Coffee break** |
-| 11:15 | **Title to be announced** <br> *Mathieu Westphal, Kitware* <br> |
+| 11:15 | **Kitware open source software for CFD and DEM engineers** <br> *Mathieu Westphal, Kitware* <br> ParaView is the main scientific visualisation software for many simulation code and used by many. Newer version of ParaView contains tons of new feature yet to be used to their full potential. Discover how Kitware and ParaView can help you analyse your CFD and DEM results with millions of particles using advanced techniques like temporal particle tracing or customized glyphing!|
 | 11:45 | **Title to be announced** <br> *Federico Piscaglia, Politecnico di Milano* <br>  |
 | 12:15 | **Lunch break** |
 | 13:15 | **Title to be announced** <br> *Henning Scheufler, NeoFoam project member* <br> |
