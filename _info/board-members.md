@@ -27,4 +27,4 @@ teaser: List of current DANSIS board members, which represent both academia and 
 - Rasmus Boye, GEA
 - Mie Bach-Pedersen, Novo Nordisk
 - Nicholas Pedersen, Grundfos
-- Simon Matlok, MAN Energy Solutions
+- Simon Matlok, Everllence
