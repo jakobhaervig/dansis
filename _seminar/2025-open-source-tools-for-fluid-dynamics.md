@@ -26,5 +26,6 @@ Open source software tools are widely used both in academia and industry as alte
 | 13:45 | **Simulation of liquid metal flows - the role of open-source tools from physical understanding to industrial applications** <br> *Lilla Koloszar, von Karman Institute* <br> |
 | 14:15 | **Coffee break** |
 | 14:30 | **Title to be announced** <br> *Simon Eberhard, DTU* <br> |
-| 15:00 | **Title to be announced** <br> *Johan Rønby, RUC/STROMNING* <br> |
-| 15:30 | **Closing remarks** <br> *Knud Erik Meyer, DANSIS chairman* |
+| 15:00 | **Code_Saturne: An overview of (another) powerful Open-Source CFD solver developed over decades** <br> *Maxime Gueguin, Simvia* <br> Code_Saturne is EDF’s open-source finite-volume solver for incompressible and compressible single-phase flows, scalable to over 100,000 CPU cores and recently extended with GPU support. After a brief look at its modular architecture and latest features this talk presents three industrial case studies: thermal management in data centres, hydrogen dispersion in electrolyser containers, and wind-farm energy prediction. These examples highlight how transparent numerics and reproducible, vendor-neutral workflows accelerate iteration between research and industry. |
+| 15:30 | **Title to be announced** <br> *Johan Rønby, RUC/STROMNING* <br> |
+| 16:00 | **Closing remarks** <br> *Knud Erik Meyer, DANSIS chairman* |
