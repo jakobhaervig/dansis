@@ -2,8 +2,8 @@
 title: "Open Source Tools For Fluid Dynamics"
 date: 2025-10-8
 image: "images/seminar/2025-open-source-tools-for-fluid-dynamics.jpg"
-venue: "DTU Lyngby Campus, building 101, meeting room S01"
-googleurl: "https://maps.app.goo.gl/MswH8GPqnRHueUD9A"
+venue: "DTU Lyngby Campus, building 107, Demantsalen (Oticonsalen)"
+googleurl: "https://maps.app.goo.gl/uFVxy74iUFSJZF7Y7"
 identifier: "1294084"
 #filefolder: "presentations/2025-open-source-tools-for-fluid-dynamics"
 ---
