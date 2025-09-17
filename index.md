@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # DANSIS
 
-The Danish Society for Industrial Fluid Dynamics (DANSIS - in Danish "**Dan**sk **S**elskab for **I**ndustriel **S**trømningsmekanik") is a Danish company and networking organization based on industry research requirements and development within the area of fluid mechanics. DANSIS helps coordinate national efforts and strengthen the international relationships within the fluid flow field and catalyses the interdisciplinary collaboration between relevant sectors.
+The Danish Society for Industrial Fluid Dynamics (DANSIS - in Danish "**Dan**sk **S**elskab for **I**ndustriel **S**trømningsmekanik") is a Danish organisation that brings together Danish companies and universities working in the field of fluid mechanics. DANSIS coordinates national efforts and strengthen the international relationships within the field of fluid flows and catalyses the interdisciplinary collaboration between relevant sectors.
