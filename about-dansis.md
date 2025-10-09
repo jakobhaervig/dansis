@@ -28,4 +28,4 @@ As a member of DANSIS, you will regularly be invited for events across the count
 
 DANSIS members primarily include individuals from the Danish industrial sector, but both international and private stakeholders have the opportunity to join DANSIS. Currently DANSIS has 70 members (companies/persons).
 
-DANSIS was founded in 1998 at the request of the Danish Maritime Institute and is currently headquartered at DTU Mechanical Engineering
+DANSIS was founded in 1998 at the request of the Danish Maritime Institute and is currently headquartered at DTU Construct
