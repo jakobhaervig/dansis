@@ -1,6 +1,6 @@
 ---
 title: "Dansis award 2025"
-date: 2024-10-08
+date: 2025-10-08
 image: "images/news/2025-dansis-award.jpg"
 ---
 
