@@ -5,7 +5,7 @@ image: "images/seminar/2026-verification-validation-and-qualification.png"
 venue: "Aerotak, Transformervej 14, 2860 Søborg"
 googleurl: "https://maps.app.goo.gl/1sNJAkBucmzLNDY96"
 identifier: "1695394"
-filefolder: "presentations/2026-verification-validation-and-qualification"
+#filefolder: "presentations/2026-verification-validation-and-qualification"
 ---
 
 Digital verification is transforming how we design, validate, and certify industrial processes and equipment. Traditionally, verification has relied on physical testing, documentation, and manual procedures, but digital tools now make it possible to demonstrate compliance virtually — faster, safer, and more transparently.
