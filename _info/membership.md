@@ -8,7 +8,7 @@ teaser: Overview of DANSIS membership options and how to become a member.
 You may subscribe to a DANSIS membership by either registering below or by bank transfer by contacting DANSIS at dansis@dansis.dk.
 
 <script src="https://billetto.dk/widget.js"></script>
-<billetto-widget type="event" event="1077368" organization="billetto.dk" lang="en" theme="light" color="#0eafee" whitelabel hide-banners></billetto-widget>
+<billetto-widget type="event" event="1674759" organization="billetto.dk" lang="en" theme="light" color="#0eafee" whitelabel hide-banners></billetto-widget>
 <br>
 The main benefit of membership is that member meetings are free of charge. Lunch etc at meetings is often sponsored by different companies and are therefore untaxed. Member meetings are not just an opportunity to keep updated on flow-mechanical issues, but are also a good place to network.
 
