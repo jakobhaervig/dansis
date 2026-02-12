@@ -34,3 +34,4 @@ In this seminar, experts from industry and academia will present experiences, me
 | 15:00 | **Front-loading V&V and regulatory compliance of aseptic process design using CFD** <br> *Jenny K Lindblad and Ulf Lindblad, TetraPak* | |
 | 15:30 | **Open Slot** | | 
 | 16:00 | **Closing remarks** <br> *Knud Erik Meyer, DANSIS chairman* | |
+| 16:10 | **General assembly** | |
