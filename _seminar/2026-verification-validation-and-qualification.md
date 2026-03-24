@@ -23,15 +23,15 @@ In this seminar, experts from industry and academia will present experiences, me
 | ----- | ---------------------- |---------------------|
 | 09:00 | **Registration and Coffee** ||
 | 09:30 | **Introduction and motivation** <br> *Thomas Filholm, Aerotak* ||
-| 09:45 | **Pharmaceutical Qualification and Validation – Past, present and  future** <br> *Victor Bechmann, Pharmakon / Kuatro-group* | The talk starts with the Devonport accident and what it teaches about engineering responsibility. It then explains why qualification and validation are necessary, and outlines the structure and logic of the V-model. Next, it clarifies the stakeholder landscape — manufacturer, supplier, and authority — and their respective roles. The talk concludes with a forward-looking perspective on how CFD, design leveraging, and AI are changing qualification and validation practices.|
+| 09:45 | **Pharmaceutical Qualification and Validation – Past, present and future** <br> *Victor Bechmann, Pharmakon / Kuatro-group* | The talk starts with the Devonport accident and what it teaches about engineering responsibility. It then explains why qualification and validation are necessary, and outlines the structure and logic of the V-model. Next, it clarifies the stakeholder landscape — manufacturer, supplier, and authority — and their respective roles. The talk concludes with a forward-looking perspective on how CFD, design leveraging, and AI are changing qualification and validation practices.|
 | 10:30 | **Coffee break** ||
 | 11:00 | **Validation of Cleanrooms** <br> *Ulla Thomsen og Anne Rasmussen, Novo Nordisk* | A historical perspective of validation of cleanrooms |
 | 11:30 | **Virtual Temperature Mapping** <br> *Joachim Toftegaard Hansen, Aerotak*| Temperature mapping is a critical part of qualifying temperature-sensitive spaces. In recent years, CFD has emerged as a powerful supplement to physical testing. This talk explores how virtual temperature mapping is used for qualification, highlighting the challenges, benefits, and potential pitfalls when simulations replace or reduce traditional test protocols.|
-| 12:00 | **Force Technology** <br> *Rasul Niazmand Bilandi and Stephan Berger, Force Technology*| Marine Application |
-| 13:00 | **Gas Leak Hazards in Offshore and Hydrogen Systems** <br> *Ingar Fossan, Chief Adviser, Safetec* | ATEX and Safety Considerations |
+| 12:00 | **Lunch and networking** ||
+| 13:00 | **Efficient simulation of safety-critical ship maneuvers: A numerical and experimental study** <br> *Rasul Niazmand Bilandi, Force Technology*| This presentation focuses on CFD simulations of a fixed-pitch propeller under crash-stop conditions. During a crash stop, the vessel continues moving forward while the propeller reverses rotation, producing negative thrust and highly transient loads. The resulting flow is strongly unsteady, with pronounced separation, recirculation, and large vortical structures that influence stopping distance and blade loading. Different simulation approaches for this safety-critical maneuver are compared and validated against experimental data. Despite the complex flow, the RANS/MRF approach shows good agreement with experiments while requiring significantly less computational effort than scale-resolving methods.|
+| 13:30 | **Gas Leak Hazards in Offshore and Hydrogen Systems** <br> *Ingar Fossan, Chief Adviser, Safetec* | ATEX and Safety Considerations |
 | 14:15 | **Coffee and Cake Break** | |
-| 14:30 | **Rambøll** | |
-| 15:00 | **Front-loading V&V and regulatory compliance of aseptic process design using CFD** <br> *Jenny K Lindblad and Ulf Lindblad, TetraPak* | |
-| 15:30 | **Open Slot** | | 
-| 16:00 | **Closing remarks** <br> *Knud Erik Meyer, DANSIS chairman* | |
-| 16:10 | **General assembly** | |
+| 14:45 | **From Contaminated to Clean industries** <br> *Jens Chr. Bennetsen, Rambøll* | Verifying and Supporting CFD Modelling Across Diverse Industries |
+| 15:15 | **Front-loading V&V and regulatory compliance of aseptic process design using CFD** <br> *Jenny K Lindblad and Ulf Lindblad, TetraPak* | |
+| 15:45 | **Closing remarks** <br> *Knud Erik Meyer* | |
+| 16:00 | **General assembly** | |
