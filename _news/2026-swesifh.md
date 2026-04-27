@@ -1,7 +1,7 @@
 ---
-title: "New "
+title: "SweSIFH (Swedish Society for Industrial Fluid Mechanics and Heat Transfer)"
 date: 2026-04-27
-image: "images/news/2026-swesifh.jpg"
+image: "images/news/2026-swesifh.png"
 ---
 
 New sister organisation has appeared in Sweden! SweSIFH (Swedish Society for Industrial Fluid Mechanics and Heat Transfer) is an organisation that aims to increase the knowledge and network for people working in Sweden with fluid mechanics and heat transfer. 
