@@ -34,5 +34,5 @@ Industry and academic experts will share methods, tools, and case studies on cre
 | 13:30 | **Digital Twins for Water Distribution Networks** <br> *Klavs Høgh, Niras* <br> Overview of the application of digital twins in the water sector, covering what digital twins are, their architecture, software, and hardware components, applications in water supply systems, data and the real-world benefits they can deliver. |
 | 14:00 | **Danfoss** <br> *Steffen Kammeyer Iversen* <br> |
 | 14:30 | **Coffee and Cake Break** |
-| 15:00 | **Physics-based Digital Twin of a Wind Turbine Generator and it's Applications** <br> Vestas<br> |
+| 15:00 | **Physics-based Digital Twin of a Wind Turbine Generator and it's Applications** <br> *Anders Christian Olesen, Vestas*<br> |
 | 15:30 | **Closing remarks** <br> *Knud Erik Meyer, DANSIS chairman* <br> |
