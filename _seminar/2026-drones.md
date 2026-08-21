@@ -20,7 +20,7 @@ The development of drones has experienced a rapid boom. Recently in the defense 
 | 09:45 | **Introduction to rotor aerodynamics** <br> *Morten Hansen, SDU*  <br> |
 | 10:30 | **Coffee break** |
 | 11:00 | **Aerodynamics of Skywatch Drones** <br> *Sky-watch /Aerotak* <br> |
-| 11:30 | **Flow Testing and Drone Applications	Robert Littlewood** <br> *Robert Littlewood, Dantec Dynamics* <br> |
+| 11:30 | **Flow Testing and Drone Applications** <br> *Robert Littlewood, Dantec Dynamics* <br> |
 | 12:00 | **Lunch and facility tour** |
 | 13:30 | **TBA** <br> <br> |
 | 14:00 | **TBA** <br> <br> |
