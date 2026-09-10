@@ -15,7 +15,7 @@ We at DANSIS are pleased to have you as a presenter at one of our DANSIS seminar
 - Please hand over your presentation in PDF format (or similar) to the DANSIS committee for upload to the DANSIS Website. Please remember to remove confidential slides.
 - Please try to come up with useful tips to the audience on the subject of the presentation.
 - Please reduce the introduction of your company or university to a minimum.
-- Please feel free to go into (extreme) detail about the subject.
+- Please feel free to go into technical details about the subject (mindful use of text).
 - If you have any questions, please don’t hesitate to [contact DANSIS](/contact/).
 
 Thank you,
