@@ -11,7 +11,7 @@ max_participants: 150
 
 The development of drones has experienced a rapid boom. Recently in the defense industry, but also in several other industries. This seminar will deep dive into the aerodynamics of drones. We will hear from some of the leading experts, see a drone test center and demonstration of drones and test equipment.
 
-## Preliminary Agenda of the day
+## Agenda of the day
 
 | Time  |                        |
 | ----- | ---------------------- |
