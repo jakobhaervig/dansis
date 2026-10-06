@@ -19,11 +19,9 @@ The development of drones has experienced a rapid boom. Recently in the defense 
 | 09:30 | **Introduction and motivation** <br> *Stig Staghøj Knudsen, Staghoj* <br> |
 | 09:45 | **Introduction to rotor aerodynamics** <br> *Morten Hansen, SDU*  <br> |
 | 10:30 | **Coffee break** |
-| 11:00 | **Aerodynamics of Drones** <br> *Aerotak* <br> |
-| 11:30 | **Flow Testing and Drone Applications** <br> *Robert Littlewood, Dantec Dynamics* <br> |
-| 12:00 | **Lunch and facility tour** |
-| 13:30 | **DANSIS graduate award** <br>Award ceremoni and presentation by the winner <br> |
+| 11:00 | **DANSIS graduate award** <br>Award ceremoni and presentation by the winner <br> |
+| 11:20 | **Flow Testing and Drone Applications** <br> *Robert Littlewood, Dantec Dynamics* <br> |
+| 11:50 | **Lunch and facility tour** |
+| 13:20 | **Aerodynamics of Drones** <br> *Aerotak* <br> |
 | 13:50 | **Development of a Six-Degree-of-Freedom Simulation Tool for High-Speed Surface Drones** <br>*Rasul Niazmand Bilandi, FORCE Technology* <br> |
-| 14:20 | **Coffee and Cake Break** |
-| 14:50 | **TBA** <br> <br> |
-| 15:20 | **Closing remarks** <br> *Knud Erik Meyer, DANSIS chairman* <br> |
+| 14:20 | **Closing remarks** <br> *Knud Erik Meyer, DANSIS chairman* <br> |
